@@ -1,0 +1,28 @@
+{
+ "age": null,
+ "cast": [
+  "Mahira Khan",
+  "Bilal Ashraf",
+  "Khushal Khan",
+  "Sohail Sameer",
+  "Sara"
+ ],
+ "cover": "desktop/1920x1080_1746781242394.webp",
+ "coverBig": "desktop/1920x1080_1746781242394.webp",
+ "description": "Nigar Johar dreams big despite misogyny and despair. With Johar Ali Khan’s support, she perseveres, pursues her ambitions, and strives to make history through courage and determination.",
+ "duration": "01:41:50",
+ "episodes": 0,
+ "genres": [
+  "Telefilm",
+  "Telefilms"
+ ],
+ "id": "681dbecebefafd61726398c7",
+ "logo": "logo/570x250_1746781245098.webp",
+ "poster": "poster/280x400_1746781233295.webp",
+ "posterHD": "mobile/1400x1300_1746781237240.webp",
+ "slug": "aik-hai-nigar",
+ "stream": "https://vod.aryzap.com/0e66b809vodtranshk1313565080/f1e6e3213560136623170485385/adp.10.m3u8?bkreg=IND",
+ "title": "Aik Hai Nigar",
+ "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/e87a91de1397757909696445419/adp.10.m3u8",
+ "type": "movie"
+}

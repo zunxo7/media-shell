@@ -1,0 +1,4 @@
+// The app's icon, built into zunflix.exe (what Explorer, the taskbar and shortcuts show). Neutral language, group 1:
+// setup.rs swaps in the setup's icon (zf over "setup") under these same ids when it packs a setup.
+LANGUAGE 0, 0
+1 ICON "assets/icon.ico"

@@ -1,0 +1,18 @@
+[package]
+name = "zcore"
+description = "zunflix's shared logic, used by every app"
+edition.workspace = true
+version.workspace = true
+publish.workspace = true
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+unicode-normalization.workspace = true
+sha2.workspace = true
+url.workspace = true
+mpeg2ts = "0.6.1"
+
+[lints]
+workspace = true

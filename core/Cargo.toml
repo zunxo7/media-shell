@@ -1,0 +1,32 @@
+[workspace]
+resolver = "2"
+members = ["zcore", "zcore-ffi", "uniffi-bindgen"]
+
+[workspace.package]
+edition = "2021"
+version = "0.1.0"
+publish = false
+
+[workspace.dependencies]
+zcore = { path = "zcore" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+uniffi = "0.32.2"
+unicode-normalization = "0.1"
+sha2 = "0.10"
+url = "2.5"
+
+[workspace.lints.rust]
+unsafe_code = "forbid"
+
+[workspace.lints.clippy]
+unwrap_used = "deny"
+
+# Built into the Android app: small and fast. Unwinding stays on, so a panic reaches Kotlin as an exception
+# (UniFFI catches it) instead of killing the app.
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+strip = true

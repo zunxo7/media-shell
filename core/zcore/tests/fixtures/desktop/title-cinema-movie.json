@@ -1,0 +1,31 @@
+{
+ "cast": [
+  "Matt Damon",
+  "Tom Holland",
+  "Anne Hathaway"
+ ],
+ "cover": "https://image.tmdb.org/t/p/w1280/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+ "coverBig": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+ "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+ "availableAt": null,
+ "duration": "173 min",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Drama"
+ ],
+ "id": "cinema-movie-tt33764258",
+ "imdb": "tt33764258",
+ "logo": "https://image.tmdb.org/t/p/original/kX6ZX4GL7km04332caiOVapR2lb.png",
+ "mediaType": "movie",
+ "minutes": 173,
+ "poster": "https://image.tmdb.org/t/p/w780/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
+ "posterClean": true,
+ "rating": "8.4",
+ "slug": "the-odyssey-2026",
+ "source": "cinema",
+ "textless": true,
+ "title": "The Odyssey",
+ "type": "movie",
+ "year": "2026"
+}

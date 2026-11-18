@@ -1,0 +1,6 @@
+[bindings.kotlin]
+package_name = "com.zunflixtv.core"
+cdylib_name = "zcore_ffi"
+# Android-safe generated code (no APIs newer than the app's minimum, Android 7).
+android = true
+android_cleaner = true
