@@ -1,0 +1,80 @@
+# Builds the desktop app for macOS (universal), packs it, opens it and photographs it. Free here: this repo is public.
+# The server's host comes from the SERVER_HOST secret; what's built is encrypted with ARTIFACT_KEY before upload.
+name: mac
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+concurrency:
+  group: mac
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Server host
+        env:
+          SERVER_HOST: ${{ secrets.SERVER_HOST }}
+        run: |
+          grep -rl --exclude-dir=.git 'host\.invalid' . | xargs sed -i '' "s/host\.invalid/${SERVER_HOST}/g"
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            windows/app/target
+          key: cargo-${{ hashFiles('windows/app/Cargo.lock', 'core/Cargo.lock') }}
+          restore-keys: cargo-
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/zcache
+            ~/zlibmpv
+          key: libmpv-${{ hashFiles('tools/build-libmpv-macos.sh', 'tools/join-libmpv-macos.sh') }}
+
+      - name: libmpv (built only when the cache hasn't got it)
+        run: |
+          set -euo pipefail
+          if [ ! -f "$HOME/zlibmpv/libmpv.2.dylib" ]; then
+            bash tools/build-libmpv-macos.sh arm64
+            bash tools/build-libmpv-macos.sh x86_64
+            bash tools/join-libmpv-macos.sh
+            mkdir -p "$HOME/zlibmpv" && cp out/libmpv.2.dylib "$HOME/zlibmpv/"
+          fi
+          lipo -archs "$HOME/zlibmpv/libmpv.2.dylib"
+
+      - name: Build, bundle, .pkg, screenshots
+        env:
+          ZF_TEST_USER: ${{ secrets.ZF_TEST_USER }}
+          ZF_TEST_PASS: ${{ secrets.ZF_TEST_PASS }}
+          MAC_P12: ${{ secrets.MAC_P12 }}
+          MAC_P12_PASSWORD: ${{ secrets.MAC_P12_PASSWORD }}
+          MAC_INSTALLER_P12: ${{ secrets.MAC_INSTALLER_P12 }}
+          MAC_INSTALLER_P12_PASSWORD: ${{ secrets.MAC_INSTALLER_P12_PASSWORD }}
+          ASC_KEY_P8: ${{ secrets.ASC_KEY_P8 }}
+          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+        run: bash tools/build-mac-app.sh
+
+      - name: Encrypt what's built
+        if: always()
+        env:
+          ARTIFACT_KEY: ${{ secrets.ARTIFACT_KEY }}
+        run: |
+          COPYFILE_DISABLE=1 tar -czf out.tgz -C windows/app dist/shots $( [ -f windows/app/dist/zunflix.pkg ] && echo dist/zunflix.pkg ) $( [ -f windows/app/dist/zunflix-app.zip ] && echo dist/zunflix-app.zip ) $( [ -f windows/app/dist/notarized ] && echo dist/notarized ) 2>/dev/null || true
+          openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:ARTIFACT_KEY -in out.tgz -out build.enc
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: build
+          path: build.enc
+          retention-days: 7

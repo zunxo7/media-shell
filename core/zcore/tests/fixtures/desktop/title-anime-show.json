@@ -1,0 +1,315 @@
+{
+ "adult": false,
+ "age": "PG-13",
+ "cover": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+ "coverBig": "https://image.tmdb.org/t/p/original/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+ "description": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
+ "episodes": [
+  {
+   "date": "2023-10-22T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-1-ieamwf",
+   "n": 1,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/1/w780.jpg",
+   "title": "Episode 1"
+  },
+  {
+   "date": "2023-10-22T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-2-mz4hbm-9801",
+   "n": 2,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/2/w780.jpg",
+   "title": "Episode 2"
+  },
+  {
+   "date": "2023-10-22T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-3-f8bnoy",
+   "n": 3,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/3/w780.jpg",
+   "title": "Episode 3"
+  },
+  {
+   "date": "2023-10-29T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-4-juz2q1",
+   "n": 4,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/4/w780.jpg",
+   "title": "Episode 4"
+  },
+  {
+   "date": "2023-11-04T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-5-hcw6xl",
+   "n": 5,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/5/w780.jpg",
+   "title": "Episode 5"
+  },
+  {
+   "date": "2023-11-12T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-6-9g7hrj",
+   "n": 6,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/6/w780.jpg",
+   "title": "Episode 6"
+  },
+  {
+   "date": "2023-11-19T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-7-nfxqht",
+   "n": 7,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/7/w780.jpg",
+   "title": "Episode 7"
+  },
+  {
+   "date": "2023-11-26T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-8-l62k7v-2248",
+   "n": 8,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/8/w780.jpg",
+   "title": "Episode 8"
+  },
+  {
+   "date": "2023-12-03T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-9-ffl6rd",
+   "n": 9,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/9/w780.jpg",
+   "title": "Episode 9"
+  },
+  {
+   "date": "2023-12-10T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-10-tcfzss",
+   "n": 10,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/10/w780.jpg",
+   "title": "Episode 10"
+  },
+  {
+   "date": "2023-12-17T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-11-t7lto8",
+   "n": 11,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/11/w780.jpg",
+   "title": "Episode 11"
+  },
+  {
+   "date": "2023-12-24T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-12-m7arj0",
+   "n": 12,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/12/w780.jpg",
+   "title": "Episode 12"
+  },
+  {
+   "date": "2024-01-07T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-13-ynmj2m",
+   "n": 13,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/13/w780.jpg",
+   "title": "Episode 13"
+  },
+  {
+   "date": "2024-01-14T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-14-mfzh64",
+   "n": 14,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/14/w780.jpg",
+   "title": "Episode 14"
+  },
+  {
+   "date": "2024-01-21T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-15-7xavtj",
+   "n": 15,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/15/w780.jpg",
+   "title": "Episode 15"
+  },
+  {
+   "date": "2024-01-28T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-16-7sf9ap",
+   "n": 16,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/16/w780.jpg",
+   "title": "Episode 16"
+  },
+  {
+   "date": "2024-02-04T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-17-5vnfkb",
+   "n": 17,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/17/w780.jpg",
+   "title": "Episode 17"
+  },
+  {
+   "date": "2024-02-11T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-18-26rtd7",
+   "n": 18,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/18/w780.jpg",
+   "title": "Episode 18"
+  },
+  {
+   "date": "2024-02-18T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-19-o8peue",
+   "n": 19,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/19/w780.jpg",
+   "title": "Episode 19"
+  },
+  {
+   "date": "2024-02-25T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-20-jj4jv5",
+   "n": 20,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/20/w780.jpg",
+   "title": "Episode 20"
+  },
+  {
+   "date": "2024-03-03T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-21-sxmzxv",
+   "n": 21,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/21/w780.jpg",
+   "title": "Episode 21"
+  },
+  {
+   "date": "2024-03-10T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-22-fp7gug",
+   "n": 22,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/22/w780.jpg",
+   "title": "Episode 22"
+  },
+  {
+   "date": "2024-03-17T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-23-is93t2",
+   "n": 23,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/23/w780.jpg",
+   "title": "Episode 23"
+  },
+  {
+   "date": "2024-03-24T14:00:00.000Z",
+   "id": "anime-the-apothecary-diaries-episode-24-gq1szw",
+   "n": 24,
+   "season": 1,
+   "seasonId": "anime-the-apothecary-diaries-44z5uk",
+   "seasonLabel": "Season 1",
+   "stream": null,
+   "thumb": "https://episodes.metahub.space/tt26743760/1/24/w780.jpg",
+   "title": "Episode 24"
+  }
+ ],
+ "fallback": "https://animehot.cc/storage/media/2026/09/6a900900566b01dd74f30741-poster.jpg",
+ "format": "TV",
+ "genres": [
+  "Drama",
+  "Mystery"
+ ],
+ "id": "anime-the-apothecary-diaries-44z5uk",
+ "imdb": "tt26743760",
+ "logo": "https://image.tmdb.org/t/p/original/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
+ "mal": 54492,
+ "mature": false,
+ "poster": "https://image.tmdb.org/t/p/w780/tKZeL5kDZbOo8ao1szJZuZT0kqO.jpg",
+ "posterClean": true,
+ "rating": "8.6",
+ "seasons": [
+  {
+   "episodes": 24,
+   "id": "anime-the-apothecary-diaries-44z5uk",
+   "label": "Season 1",
+   "number": 1
+  },
+  {
+   "episodes": 24,
+   "id": "anime-the-apothecary-diaries-season-2-bghl4y",
+   "label": "Season 2",
+   "number": 2
+  },
+  {
+   "episodes": 7,
+   "id": "anime-the-apothecary-diaries-season-3-7mu2va",
+   "label": "Season 3",
+   "number": 3
+  }
+ ],
+ "selectedSeason": "anime-the-apothecary-diaries-44z5uk",
+ "slug": "the-apothecary-diaries",
+ "source": "anime",
+ "synopsis": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court.",
+ "textless": true,
+ "title": "The Apothecary Diaries",
+ "type": "show",
+ "year": "2023"
+}

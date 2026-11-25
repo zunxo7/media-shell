@@ -1,0 +1,138 @@
+{
+ "age": null,
+ "cast": [
+  "Zahid Ahmed",
+  "Mehwish Hayat",
+  "Hiba Qadir",
+  "Talha Chahour"
+ ],
+ "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo-copy_1790783314133.webp",
+ "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo-copy_1790783314133.webp",
+ "description": "A relationship built on respect. A bond meant to be protected.\nBut what happens when the very person meant to honour it begins to forget its worth?\nWritten By: Umera Ahmed\nDirected By: Haseeb Hassan",
+ "duration": "",
+ "episodes": [
+  {
+   "date": "2026-10-06T14:25:57.123Z",
+   "id": "6ac504f5bbad06224ad78cde",
+   "length": 2472,
+   "n": 1,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/52858ad35001834820125138326/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/e05ab1555001834822612913423/adp.10.m3u8",
+   "thumb": "cdnv2/EP_1_1791296756366.webp",
+   "title": "Episode 1"
+  },
+  {
+   "date": "2026-10-12T14:03:53.856Z",
+   "id": "6acce8c9d6df97bc54a753b0",
+   "length": 2397,
+   "n": 2,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/d7be52415001834820582881256/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/d7be52415001834820582881256/adp.10.m3u8",
+   "thumb": "cdnv2/sampleSnapshot_10_9_1791821046300.webp",
+   "title": "Episode 2"
+  },
+  {
+   "date": "2026-10-13T14:25:28.071Z",
+   "id": "6ace3f5871720e033b33cff4",
+   "length": 2433,
+   "n": 3,
+   "sprite": "https://vod.aryzap.com/cd6a659fvodtransjkt1313565080/595d13135001834820125411881/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/cd6a659fvodtransjkt1313565080/595d13135001834820125411881/adp.10.m3u8",
+   "thumb": "cdnv2/rutba-3_1791901527423.webp",
+   "title": "Episode 3"
+  },
+  {
+   "date": "2026-10-19T14:26:16.622Z",
+   "id": "6ad62888c8186241d1a45a89",
+   "length": 2416,
+   "n": 4,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/8b2886db5001834824730215953/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/8b2886db5001834824730215953/adp.10.m3u8",
+   "thumb": "cdnv2/Rutba_4_1792419976174.webp",
+   "title": "Episode 4"
+  },
+  {
+   "date": "2026-10-20T14:15:31.406Z",
+   "id": "6ad7778392aba23c5db72482",
+   "length": 2270,
+   "n": 5,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/8b37d8f25001834824730220750/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/8b37d8f25001834824730220750/adp.10.m3u8",
+   "thumb": "cdnv2/Rutba_5_1792505730928.webp",
+   "title": "Episode 5"
+  },
+  {
+   "date": "2026-10-26T13:27:12.419Z",
+   "id": "6adf553099884bc0aaf7a99a",
+   "length": 2275,
+   "n": 6,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/804bc3385001834825085312363/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/804bc3385001834825085312363/adp.10.m3u8",
+   "thumb": "cdnv2/Rutba_6_1793021231836.webp",
+   "title": "Episode 6"
+  },
+  {
+   "date": "2026-10-27T14:31:20.028Z",
+   "id": "6ae0b5b899884bc0aa45d694",
+   "length": 2263,
+   "n": 7,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/e30e78bd5001834825113266665/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/e30e78bd5001834825113266665/adp.10.m3u8",
+   "thumb": "cdnv2/Rutba_7_1793111479458.webp",
+   "title": "Episode 7"
+  },
+  {
+   "date": "2026-11-02T13:48:32.259Z",
+   "id": "6ae894b0a0261dea56e97a69",
+   "length": 2313,
+   "n": 8,
+   "sprite": "https://vod.aryzap.com/cd6a659fvodtransjkt1313565080/8c39287f5001834826431631685/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/cd6a659fvodtransjkt1313565080/8c39287f5001834826431631685/adp.10.m3u8",
+   "thumb": "cdnv2/Rutba_8_1793627311194.webp",
+   "title": "Episode 8"
+  },
+  {
+   "date": "2026-11-03T13:25:09.126Z",
+   "id": "6ae9e0b5d21fe2ecce0abc81",
+   "length": 2256,
+   "n": 9,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/04c4a75c5001834826365137612/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/04c4a75c5001834826365137612/adp.10.m3u8",
+   "thumb": "cdnv2/rutba1_1793712308483.webp",
+   "title": "Episode 9"
+  },
+  {
+   "date": "2026-11-09T14:28:07.174Z",
+   "id": "6af1d877a2fc40d6c744a02b",
+   "length": 2429,
+   "n": 10,
+   "sprite": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/3fcd07de5001834826454104279/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/3fcd07de5001834826454104279/adp.10.m3u8",
+   "thumb": "cdnv2/sampleSnapshot_10_4_1794321492755.webp",
+   "title": "Episode 10"
+  },
+  {
+   "date": "2026-11-10T15:34:23.383Z",
+   "id": "6af3397f53b205f1650ddb2d",
+   "length": 2270,
+   "n": 11,
+   "sprite": "https://vod.aryzap.com/0e66b809vodtranshk1313565080/10d7c7e45001834826365691903/imageSprite/imageSprite_10.vtt",
+   "stream": "https://vod.aryzap.com/0e66b809vodtranshk1313565080/10d7c7e45001834826365691903/adp.2044502.m3u8",
+   "thumb": "cdnv2/EP_11_1794324862780.webp",
+   "title": "Episode 11"
+  }
+ ],
+ "genres": [
+  "Drama",
+  "Family"
+ ],
+ "id": "6aabeb956ff05a2ba20dc641",
+ "logo": "logo/Logo_1790783315146.webp",
+ "poster": "poster/Poster-Image-280x400-With-Logo_1790783312410.webp",
+ "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1790783313130.webp",
+ "slug": "rutba",
+ "stream": null,
+ "title": "Rutba",
+ "trailer": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/1a1d8d7e5001834821481854191/adp.10.m3u8",
+ "type": "show"
+}

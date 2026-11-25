@@ -1,0 +1,560 @@
+{
+ "items": [
+  {
+   "age": null,
+   "cover": "https://image.tmdb.org/t/p/w1280/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d1e664d200c87068a484-poster.jpg",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": "anime-b64-bXktc3RhdHVzLWFzLWFuLWFzc2Fzc2luLW9idmlvdXNseS1leGNlZWRzLXRoZS1oZXJvJ3MtbW4xZDF1",
+   "logo": "https://image.tmdb.org/t/p/original/8dxuiTgtYGNeZ7WYajwz50NUwDo.png",
+   "poster": "https://image.tmdb.org/t/p/w780/vgOnV7X0dIENy5zpUdvXAlBZekq.jpg",
+   "posterClean": true,
+   "rating": "6.6",
+   "slug": "my-status-as-an-assassin-obviously-exceeds-the-hero-s",
+   "source": "anime",
+   "textless": true,
+   "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/vPEKUiZ1DHZ3sok1oIiOXhk9aAC.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/vPEKUiZ1DHZ3sok1oIiOXhk9aAC.jpg",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d32e64d200c87068a54e-poster.jpg",
+   "genres": [
+    "Adventure",
+    "Fantasy"
+   ],
+   "id": "anime-b64-YS1nYXRoZXJlcidzLWFkdmVudHVyZS1pbi1pc2VrYWktdnphZHV5",
+   "logo": "https://image.tmdb.org/t/p/original/ctSVeC7H1YUp0mszrFdUMBUd3fF.png",
+   "poster": "https://image.tmdb.org/t/p/w780/hq61AkcpoP2kndCYBOFyJXmnWXb.jpg",
+   "posterClean": true,
+   "rating": "6.1",
+   "slug": "a-gatherer-s-adventure-in-isekai",
+   "source": "anime",
+   "textless": true,
+   "title": "A Gatherer's Adventure in Isekai",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": null,
+   "cover": "https://image.tmdb.org/t/p/w1280/zWTtzr4cwGeVTR3ZOl6JItKkEDy.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/zWTtzr4cwGeVTR3ZOl6JItKkEDy.jpg",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d3d464d200c87068a5e0-poster.jpg",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": "anime-b64-cGx1cy1zaXplZC1taXNhZHZlbnR1cmVzLWluLWxvdmUhLWd6MGs3Zg",
+   "logo": "https://image.tmdb.org/t/p/original/cM9wh1unQx4zl37qUC3xIAEVjnB.png",
+   "poster": "https://image.tmdb.org/t/p/w780/vwRAhqnsigAnJxrc8hbyIcIu4SB.jpg",
+   "posterClean": true,
+   "rating": "5.9",
+   "slug": "plus-sized-misadventures-in-love",
+   "source": "anime",
+   "textless": true,
+   "title": "Plus-sized Misadventures in Love!",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/4JBfUOMP50CQ2Y7mOHwzXC0eqjY.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/4JBfUOMP50CQ2Y7mOHwzXC0eqjY.jpg",
+   "episodes": 13,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d41364d200c87068a62b-poster.jpg",
+   "genres": [
+    "Comedy"
+   ],
+   "id": "anime-b64-YS1tYW5nYWthJ3Mtd2VpcmRseS13b25kZXJmdWwtd29ya3BsYWNlLXI2czQxdA",
+   "logo": "https://image.tmdb.org/t/p/original/czosI1mWcWpglbySGYm3sgVqkRV.png",
+   "poster": "https://image.tmdb.org/t/p/w780/6LuCW4ofXolb1NNtytoPmF6G2XB.jpg",
+   "posterClean": true,
+   "rating": "6.4",
+   "slug": "a-mangaka-s-weirdly-wonderful-workplace",
+   "source": "anime",
+   "textless": true,
+   "title": "A Mangaka's Weirdly Wonderful Workplace",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "/still/aa35abd7a76fb8c7da1c6736e.jpg",
+   "coverBig": "/still/aa35abd7a76fb8c7da1c6736e.jpg",
+   "episodes": 13,
+   "genres": [
+    "Slice of Life"
+   ],
+   "id": "anime-anila-to-cocora-hemks0",
+   "poster": "https://animehot.cc/storage/media/2026/09/68e4d46864d200c87068a67a-poster.jpg",
+   "slug": "anila-to-cocora",
+   "source": "anime",
+   "title": "Anila to Cocora",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "G - All Ages",
+   "cover": "/still/a0cabd69bf4edfd94a834a5a1.jpg",
+   "coverBig": "/still/a0cabd69bf4edfd94a834a5a1.jpg",
+   "episodes": 83,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d4bd64d200c87068a6d6-poster.jpg",
+   "genres": [
+    "Slice of Life"
+   ],
+   "id": "anime-koupen-chan-btv6mu",
+   "poster": "https://images.metahub.space/poster/medium/tt36270045/img",
+   "rating": "7.5",
+   "slug": "koupen-chan",
+   "source": "anime",
+   "title": "Koupen-chan",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/gtwdI7qHNrrLe5R7nWnoDgrbEbV.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/gtwdI7qHNrrLe5R7nWnoDgrbEbV.jpg",
+   "episodes": 13,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d6dc64d200c87068ad4e-poster.jpg",
+   "genres": [
+    "Avant Garde",
+    "Horror",
+    "Supernatural"
+   ],
+   "id": "anime-b64-dGhlYXRyZS1vZi1kYXJrbmVzczoteWFtaXNoaWJhaS0xNS1iaHExcG0",
+   "logo": "https://image.tmdb.org/t/p/original/tui9hjWT9ug68HrYjUSU8YlynjO.png",
+   "poster": "https://image.tmdb.org/t/p/w1280/gtwdI7qHNrrLe5R7nWnoDgrbEbV.jpg",
+   "posterClean": true,
+   "rating": "7.0",
+   "slug": "theatre-of-darkness-yamishibai-15",
+   "source": "anime",
+   "textless": true,
+   "title": "Theatre of Darkness: Yamishibai 15",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg",
+   "episodes": 24,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d7f464d200c87068b087-poster.jpg",
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "id": "anime-gachiakuta-tgvlf7",
+   "logo": "https://image.tmdb.org/t/p/original/ccEM7BBPoBky3bvtJuxkDYNVPae.png",
+   "poster": "https://image.tmdb.org/t/p/w780/fVU3iWF75CIRb6bssiA0Na2zIaH.jpg",
+   "posterClean": true,
+   "rating": "8.0",
+   "slug": "gachiakuta",
+   "source": "anime",
+   "textless": true,
+   "title": "Gachiakuta",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": null,
+   "cover": "https://animehot.cc/storage/media/2026/09/68e4d98a64d200c87068b3b6-landscape.webp",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4d98a64d200c87068b3b6-poster.jpg",
+   "genres": [
+    "Sports",
+    "Ecchi"
+   ],
+   "id": "anime-b64-aGFuZHMtb2ZmOi1zYXdhcmFuYWlkZS1rb3Rlc2FzaGkta3VuLWdqbjlkcg",
+   "logo": "https://image.tmdb.org/t/p/original/AvMZ4QrMMoliCCJ5Cih4tS2Cpe9.png",
+   "poster": "https://images.metahub.space/poster/medium/tt37431541/img",
+   "rating": "5.8",
+   "slug": "hands-off-sawaranaide-kotesashi-kun",
+   "source": "anime",
+   "textless": true,
+   "title": "Hands Off: Sawaranaide Kotesashi-kun",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": null,
+   "cover": "https://image.tmdb.org/t/p/w1280/xaToO3TYQcUgOZnY3hC1MGJAeR0.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/xaToO3TYQcUgOZnY3hC1MGJAeR0.jpg",
+   "episodes": 11,
+   "fallback": "https://cdn.myanimelist.net/images/anime/1982/151278.jpg",
+   "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+   ],
+   "id": "anime-b64-YWxtYS1jaGFuLXdhbnRzLXRvLWJlLWEtZmFtaWx5IS0xMHdveDY",
+   "logo": "https://image.tmdb.org/t/p/original/ewnJKF5jZvGXfIosUAeLXKFC9nD.png",
+   "poster": "https://image.tmdb.org/t/p/w780/c3YFY0C3gq3Hg0FPOrmF6pELNxl.jpg",
+   "posterClean": true,
+   "rating": "6.6",
+   "slug": "alma-chan-wants-to-be-a-family",
+   "source": "anime",
+   "textless": true,
+   "title": "Alma-chan Wants to Be a Family!",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": null,
+   "cover": "https://image.tmdb.org/t/p/w1280/sHxfd9h3FngkYDDStLVrREESegy.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/sHxfd9h3FngkYDDStLVrREESegy.jpg",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4da1a64d200c87068b44e-poster.jpg",
+   "genres": [
+    "Fantasy"
+   ],
+   "id": "anime-b64-ZGFkLWlzLWEtaGVyby1tb20taXMtYS1zcGlyaXQtaSdtLWEtcmVpbmNhcm5hdG9yLWg0anhleg",
+   "logo": "https://image.tmdb.org/t/p/original/6ac0n1g8zYBIcMfX6YozZfKXOEr.png",
+   "poster": "https://image.tmdb.org/t/p/w780/uGGSwIlEquEYbhIwEnVmyylCmk8.jpg",
+   "posterClean": true,
+   "rating": "6.0",
+   "slug": "dad-is-a-hero-mom-is-a-spirit-i-m-a-reincarnator",
+   "source": "anime",
+   "textless": true,
+   "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": null,
+   "cover": "https://image.tmdb.org/t/p/w1280/teu2XeGsfakxV7Bajwv3cXRqvim.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/teu2XeGsfakxV7Bajwv3cXRqvim.jpg",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4da6164d200c87068b49f-poster.jpg",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": "anime-mechanical-marie-17rgvo",
+   "logo": "https://image.tmdb.org/t/p/original/jPPlyjNIj6nD1y2x8PmyTTInEHp.png",
+   "poster": "https://image.tmdb.org/t/p/w780/wdKyZTAWMvf39QXHq6GpWfeveUR.jpg",
+   "posterClean": true,
+   "rating": "6.3",
+   "slug": "mechanical-marie",
+   "source": "anime",
+   "textless": true,
+   "title": "Mechanical Marie",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/lo4pthyEH69DzbfKNwAyaIqy2y.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/lo4pthyEH69DzbfKNwAyaIqy2y.jpg",
+   "episodes": 25,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4dac564d200c87068b4ee-poster.jpg",
+   "genres": [
+    "Comedy",
+    "Fantasy"
+   ],
+   "id": "anime-witch-watch-l3ty51",
+   "logo": "https://image.tmdb.org/t/p/original/aqjQMJKjm71xPBfBuHh5FgH7Jja.png",
+   "poster": "https://image.tmdb.org/t/p/w780/b5otBBiGsHtSbms0uVajevkrHDH.jpg",
+   "posterClean": true,
+   "rating": "6.8",
+   "slug": "witch-watch",
+   "source": "anime",
+   "textless": true,
+   "title": "Witch Watch",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/kCqOvdTazSJYorYTZMJUrbzcdxW.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/kCqOvdTazSJYorYTZMJUrbzcdxW.jpg",
+   "episodes": 23,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68f47fbba0c45ca3ff250d83-poster.jpg",
+   "genres": [
+    "Drama",
+    "Sports"
+   ],
+   "id": "anime-b64-dW1hLW11c3VtZTotY2luZGVyZWxsYS1ncmF5LW1qaXAxMQ",
+   "logo": "https://image.tmdb.org/t/p/original/ikc0dINJaQT4gp8GYBGG0XTuIHZ.png",
+   "poster": "https://image.tmdb.org/t/p/w780/rtixC4leK95pethd4brah2PzAwh.jpg",
+   "posterClean": true,
+   "rating": "8.2",
+   "seasons": [
+    {
+     "label": "Season 1"
+    },
+    {
+     "label": "Season 1 · Part 2"
+    }
+   ],
+   "slug": "uma-musume-cinderella-gray",
+   "source": "anime",
+   "textless": true,
+   "title": "Uma Musume: Cinderella Gray",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+   "episodes": 49,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4dd5e64d200c87068bb41-poster.jpg",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+   ],
+   "id": "anime-digimon-beatbreak-vhsgut",
+   "logo": "https://image.tmdb.org/t/p/original/60fGv96Af7TmznUNBcz7mLrURh6.png",
+   "poster": "https://image.tmdb.org/t/p/w780/iQRQ8B79lVhzNPLWxdus7VwSyRa.jpg",
+   "posterClean": true,
+   "rating": "7.0",
+   "slug": "digimon-beatbreak",
+   "source": "anime",
+   "textless": true,
+   "title": "Digimon Beatbreak",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "G - All Ages",
+   "cover": "https://image.tmdb.org/t/p/w1280/gI8mSIkYLHDphDBBulkaSCMFvPN.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/gI8mSIkYLHDphDBBulkaSCMFvPN.jpg",
+   "episodes": 49,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4dda664d200c87068bb96-poster.jpg",
+   "genres": [
+    "Action"
+   ],
+   "id": "anime-you-and-idol-precure-oy9449",
+   "poster": "https://images.metahub.space/poster/medium/tt34852961/img",
+   "rating": "7.4",
+   "slug": "you-and-idol-precure",
+   "source": "anime",
+   "textless": true,
+   "title": "You and Idol Precure♪",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/wDOkOxudtWe1JgESujiK2v5uoly.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/wDOkOxudtWe1JgESujiK2v5uoly.jpg",
+   "episodes": 24,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4e07e64d200c87068c407-poster.jpg",
+   "genres": [],
+   "id": "anime-b64-c2ktdmlzOi10aGUtc291bmQtb2YtaGVyb2VzLXcxM2lqag",
+   "poster": "https://images.metahub.space/poster/medium/tt38037470/img",
+   "rating": "6.6",
+   "slug": "si-vis-the-sound-of-heroes",
+   "source": "anime",
+   "textless": true,
+   "title": "SI-VIS: The Sound of Heroes",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG - Children",
+   "cover": "/still/aac97577ed428b8aab0884767.jpg",
+   "coverBig": "/still/aac97577ed428b8aab0884767.jpg",
+   "episodes": 26,
+   "genres": [
+    "Fantasy",
+    "Slice of Life"
+   ],
+   "id": "anime-b64-cHVuaXJ1bmVzOi1wdW5pLTMteGlwN24z",
+   "poster": "https://animehot.cc/storage/media/2026/09/68e4e0b964d200c87068c452-poster.jpg",
+   "slug": "punirunes-puni-3",
+   "source": "anime",
+   "title": "Punirunes: Puni 3",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "R - 17+ (violence & profanity)",
+   "cover": "https://image.tmdb.org/t/p/w1280/51nYpuFTTtWuKfspXZt3EMxdxma.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/51nYpuFTTtWuKfspXZt3EMxdxma.jpg",
+   "episodes": 154,
+   "fallback": "https://animehot.cc/storage/media/2026/09/690b05591102a20484e60869-poster.jpg",
+   "genres": [
+    "Action"
+   ],
+   "id": "anime-kingdom-oxe81m",
+   "logo": "https://image.tmdb.org/t/p/original/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
+   "poster": "https://image.tmdb.org/t/p/w780/wP1aMw4sFB26qKG151GsuH29Sta.jpg",
+   "posterClean": true,
+   "rating": "8.8",
+   "seasons": [
+    {
+     "label": "Season 1"
+    },
+    {
+     "label": "Season 2"
+    },
+    {
+     "label": "Season 3"
+    },
+    {
+     "label": "Season 4"
+    },
+    {
+     "label": "Season 5"
+    },
+    {
+     "label": "Season 6"
+    }
+   ],
+   "slug": "kingdom",
+   "source": "anime",
+   "textless": true,
+   "title": "Kingdom",
+   "type": "show",
+   "year": "2012"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/wlI6dCqDjvUevo7sD3OAHMPY9W5.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/wlI6dCqDjvUevo7sD3OAHMPY9W5.jpg",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4e23164d200c87068c80d-poster.jpg",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "id": "anime-b64-bXktZnJpZW5kJ3MtbGl0dGxlLXNpc3Rlci1oYXMtaXQtaW4tZm9yLW1lIS1zc2R0aHo",
+   "logo": "https://image.tmdb.org/t/p/original/eC6Ev3IVavMwB4ZAg6nvG9NjrkN.png",
+   "poster": "https://image.tmdb.org/t/p/w780/f3wROigsZmGuf5ctn7ie38BeO5c.jpg",
+   "posterClean": true,
+   "rating": "6.1",
+   "slug": "my-friend-s-little-sister-has-it-in-for-me",
+   "source": "anime",
+   "textless": true,
+   "title": "My Friend's Little Sister Has It In for Me!",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "R+ - Mild Nudity",
+   "cover": "https://animehot.cc/storage/media/2026/09/68fc7d4421ec43f2216c2542-landscape.jpg",
+   "episodes": 30,
+   "genres": [
+    "Action",
+    "Comedy",
+    "Romance",
+    "Ecchi"
+   ],
+   "id": "anime-ranma-y23agu",
+   "poster": "https://animehot.cc/storage/media/2026/09/68fc7d4421ec43f2216c2542-poster.jpg",
+   "seasons": [
+    {
+     "label": "Season 1"
+    },
+    {
+     "label": "Season 2"
+    },
+    {
+     "label": "Season 3"
+    }
+   ],
+   "slug": "ranma1-2-2024",
+   "source": "anime",
+   "title": "Ranma1/2 (2024)",
+   "type": "show",
+   "year": "1989"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/qFODG6ZkEnpyDGCMuELo9Jgv086.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/qFODG6ZkEnpyDGCMuELo9Jgv086.jpg",
+   "episodes": 24,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4e2d564d200c87068c8b1-poster.jpg",
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "id": "anime-tojima-wants-to-be-a-kamen-rider-1inpq9",
+   "logo": "https://image.tmdb.org/t/p/original/8hoFphnzyWdSmRhfPicGdUcGb8h.png",
+   "poster": "https://image.tmdb.org/t/p/w780/6YMFXP2cCmg19bgkotTG6jKpvhP.jpg",
+   "posterClean": true,
+   "rating": "7.6",
+   "slug": "tojima-wants-to-be-a-kamen-rider",
+   "source": "anime",
+   "textless": true,
+   "title": "Tojima Wants to Be a Kamen Rider",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13 - Teens 13 or older",
+   "cover": "https://image.tmdb.org/t/p/w1280/nD5iWj4jeD4ppoLP7jN184DANQQ.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/nD5iWj4jeD4ppoLP7jN184DANQQ.jpg",
+   "episodes": 12,
+   "fallback": "https://animehot.cc/storage/media/2026/09/68e4e3c164d200c87068c909-poster.jpg",
+   "genres": [
+    "Adventure",
+    "Sci-Fi",
+    "Slice of Life"
+   ],
+   "id": "anime-touring-after-the-apocalypse-ix3aty",
+   "logo": "https://image.tmdb.org/t/p/original/jjbcDhpKCYJrJqy3uIW0YQKGapE.png",
+   "poster": "https://image.tmdb.org/t/p/w780/fovAGicyYjkbwC9bPjEgTU8W5ho.jpg",
+   "posterClean": true,
+   "rating": "6.7",
+   "slug": "touring-after-the-apocalypse",
+   "source": "anime",
+   "textless": true,
+   "title": "Touring After the Apocalypse",
+   "type": "show",
+   "year": "2025"
+  },
+  {
+   "age": "PG-13",
+   "cover": "https://image.tmdb.org/t/p/w1280/fBWZQOPl5CuYxdXRb0uNVX8mgcG.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/fBWZQOPl5CuYxdXRb0uNVX8mgcG.jpg",
+   "episodes": 62,
+   "fallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114535-y3NnjexcqKG1.jpg",
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Psychological",
+    "Supernatural"
+   ],
+   "id": "anime-to-your-eternity-9w2goz",
+   "logo": "https://image.tmdb.org/t/p/original/nXXus1FPfyE0FB4nHIFQFBNHuNt.png",
+   "poster": "https://image.tmdb.org/t/p/w780/tArNuPtOT8gMy57FCFaRANQ1jja.jpg",
+   "posterClean": true,
+   "rating": "8.2",
+   "seasons": [
+    {
+     "label": "Season 1"
+    },
+    {
+     "label": "Season 2"
+    },
+    {
+     "label": "Season 3"
+    }
+   ],
+   "slug": "to-your-eternity",
+   "source": "anime",
+   "textless": true,
+   "title": "To Your Eternity",
+   "type": "show",
+   "year": "2021"
+  }
+ ]
+}

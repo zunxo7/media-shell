@@ -1,0 +1,5344 @@
+{
+ "ary": [
+  {
+   "age": "G",
+   "cover": "desktop/1920X1080_1784120969405.webp",
+   "coverBig": "desktop/1920X1080_1784120969405.webp",
+   "description": null,
+   "duration": "00:00:56",
+   "episodes": 31,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Family"
+   ],
+   "id": "6a57868b5bf57c474cc00a50",
+   "logo": "logo/LOGO_1784120970077.webp",
+   "poster": "poster/280X400_1784120968010.webp",
+   "posterHD": "mobile/1240X1748_1784120968732.webp",
+   "slug": "dar-e-nijaat",
+   "stream": null,
+   "title": "Dar-E-Nijaat",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop.jpg_1791124393178.webp",
+   "coverBig": "desktop/Desktop.jpg_1791124393178.webp",
+   "description": null,
+   "duration": "",
+   "episodes": 17,
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": "6ac263ac72ea11541e315e79",
+   "logo": "logo/Logo_1791124394571.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1791124391063.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1791124391930.webp",
+   "slug": "lagan-lagi",
+   "stream": null,
+   "title": "Lagan Lagi",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920X1080_1789064833635.webp",
+   "coverBig": "desktop/1920X1080_1789064833635.webp",
+   "description": null,
+   "duration": "00:00:55",
+   "episodes": 56,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Family"
+   ],
+   "id": "6aa2f683be0ea0b789204b92",
+   "logo": "logo/logo_1789064834295.webp",
+   "poster": "poster/280x400_1789064832518.webp",
+   "posterHD": "mobile/1240x1748_1789064833070.webp",
+   "slug": "izzat",
+   "stream": null,
+   "title": "Izzat",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920-1_1788282434426.webp",
+   "coverBig": "desktop/1920-1_1788282434426.webp",
+   "description": null,
+   "duration": "00:00:57",
+   "episodes": 18,
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": "6a96f2a8c0a797111787be34",
+   "logo": "logo/logo_1789566163094.webp",
+   "poster": "poster/280x400-1_1788282433040.webp",
+   "posterHD": "mobile/1240_1788282433652.webp",
+   "slug": "hey-fam",
+   "stream": null,
+   "title": "Hey Fam",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo-copy_1790783314133.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo-copy_1790783314133.webp",
+   "description": null,
+   "duration": "",
+   "episodes": 11,
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": "6aabeb956ff05a2ba20dc641",
+   "logo": "logo/Logo_1790783315146.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1790783312410.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1790783313130.webp",
+   "slug": "rutba",
+   "stream": null,
+   "title": "Rutba",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Sher - 1920 x 1080@3x@3x_1750680145527.webp",
+   "coverBig": "desktop/Sher - 1920 x 1080@3x@3x_1750680145527.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 39,
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": "6859427fc4208a7bd47070e3",
+   "logo": "logo/Sher Logo@3x_1750680148577_1750753721350.webp",
+   "poster": "poster/280x400_1759412366351.webp",
+   "posterHD": "mobile/Untitled-1_1756992010420.webp",
+   "slug": "sher",
+   "stream": null,
+   "title": "Sher",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/KMKT_-_1920x1080__-without_logo_1751368549281.webp",
+   "coverBig": "desktop/KMKT_-_1920x1080__-without_logo_1751368549281.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 34,
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": "6683e59ff3416429c7d90a0e",
+   "logo": "logo/KMKT_-_Logo_3x_1751368551314.webp",
+   "poster": "poster/Kabi_main_kabhi_tum_1767858261882.webp",
+   "posterHD": "mobile/KMKT - 1240 x 1784 - without logo@3x_1750231639052.webp",
+   "slug": "kabhi-main-kabhi-tum",
+   "stream": null,
+   "title": "Kabhi Main Kabhi Tum",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761404074319.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761404074319.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 23,
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": "66e2cc73e0e68500cc143055",
+   "logo": "logo/Logo-512x512_1761404074950.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1761404071339.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1761404072697.webp",
+   "slug": "meray-paas-tum-ho",
+   "stream": null,
+   "title": "Meray Paas Tum Ho",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920x1080_1762258492306.webp",
+   "coverBig": "desktop/1920x1080_1762258492306.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 34,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Action and Adventure"
+   ],
+   "id": "672de6d73536d2ed592784f6",
+   "logo": "logo/kaisi-teri-khudgarzi_1748875634224.webp",
+   "poster": "poster/280x400_1_1762258483636.webp",
+   "posterHD": "mobile/1240x1748_1762258487889.webp",
+   "slug": "kaisi-teri-khudgarzi",
+   "stream": null,
+   "title": "Kaisi Teri Khudgarzi",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920-x-1080_1731325454272.webp",
+   "coverBig": "desktop/1920-x-1080_1731325454272.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 35,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Suspense & Thriller"
+   ],
+   "id": "6731ea26af61ef9adbad892e",
+   "logo": "logo/ishq-junoon_1748874268218.webp",
+   "poster": "poster/280-x-400_1731324415979.webp",
+   "posterHD": "mobile/1440-x-1300_1735199888762.jpg",
+   "slug": "aye-ishq-e-junoon",
+   "stream": null,
+   "title": "Aye Ishq e Junoon",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920x1080_1761590072416.webp",
+   "coverBig": "desktop/1920x1080_1761590072416.webp",
+   "description": null,
+   "duration": "01:38:07",
+   "episodes": 0,
+   "genres": [
+    "Adventure",
+    "Telefilm",
+    "Telefilms"
+   ],
+   "id": "68fd0708baf698b3f27fa035",
+   "logo": null,
+   "poster": "poster/280x400_1761590065122.webp",
+   "posterHD": "mobile/1240x1748_1761590068763.webp",
+   "slug": "hangor-s-131",
+   "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/93eee9b95145403701830218691/adp.10.m3u8",
+   "title": "Hangor S-131",
+   "type": "movie"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1783347935866.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1783347935866.webp",
+   "description": null,
+   "duration": "00:00:52",
+   "episodes": 65,
+   "genres": [
+    "Romance"
+   ],
+   "id": "6a4bbae15bf57c474cab6d0a",
+   "logo": "logo/Logo_1783347936594.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1783347934296.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1783347935002.webp",
+   "slug": "main-tera",
+   "stream": null,
+   "title": "Main Tera",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1776706423985.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1776706423985.webp",
+   "description": null,
+   "duration": "00:01:15",
+   "episodes": 45,
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": "69e66379f186c067df9d472c",
+   "logo": "logo/Logo_1791301715544.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1776706422547.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1776706423146.webp",
+   "slug": "bas-tera-saath-ho",
+   "stream": null,
+   "title": "Bas Tera Saath Ho",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920x1080_1761416020319.webp",
+   "coverBig": "desktop/1920x1080_1761416020319.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 381,
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "id": "669a5256d6776c09bafbef6c",
+   "logo": "logo/Logo_1769352519548.webp",
+   "poster": "poster/280x400_1769352519105.webp",
+   "posterHD": "mobile/1240x1748_1761416016361.webp",
+   "slug": "bulbulay-season-2",
+   "stream": null,
+   "title": "Bulbulay Season 2",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920x1080_1735732780306_1736149712182.webp",
+   "coverBig": "desktop/1920x1080_1735732780306_1736149712182.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 37,
+   "genres": [
+    "Romance",
+    "Entertainment",
+    "Suspense & Thriller"
+   ],
+   "id": "67519c4fbab01e9798a6bba9",
+   "logo": "logo/Logo_1769366071052.webp",
+   "poster": "poster/Untitled-1_1735732784376_1736149715844.webp",
+   "posterHD": "mobile/1440x1300_1735732775755_1736149714147.webp",
+   "slug": "pyare-afzal",
+   "stream": null,
+   "title": "Pyare Afzal",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761418873535.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761418873535.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 36,
+   "genres": [
+    "Drama",
+    "Family"
+   ],
+   "id": "67f3dfe4ac7c1db7bc439950",
+   "logo": "logo/Logo_1761151551355.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1761418871661.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1761151548924.webp",
+   "slug": "parwarish",
+   "stream": null,
+   "title": "PARWARISH",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761398228363.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761398228363.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 34,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Family"
+   ],
+   "id": "68fccdd6baf698b3f27d9d83",
+   "logo": "logo/MZHT_Logo_1761398549991.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1761398223558.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1761398226295.webp",
+   "slug": "meri-zindagi-hai-tu",
+   "stream": null,
+   "title": "Meri Zindagi Hai Tu",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1765553587932.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1765553587932.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 34,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Family"
+   ],
+   "id": "693c158c731e7d8c209bdf07",
+   "logo": "logo/Logo_1765553588645.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1765553584370.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo-2_1765553586107.webp",
+   "slug": "kafeel",
+   "stream": null,
+   "title": "Kafeel",
+   "type": "show"
+  },
+  {
+   "age": "PG",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo-1_1773326769401.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo-1_1773326769401.webp",
+   "description": null,
+   "duration": "00:00:41",
+   "episodes": 35,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Family"
+   ],
+   "id": "69b2d1b48aeee4bdb9903eac",
+   "logo": "logo/LOGO_1774973571568.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1774973571251.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1773326767256.webp",
+   "slug": "dr-bahu",
+   "stream": null,
+   "title": "Dr. Bahu",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1781368377922.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1781368377922.webp",
+   "description": null,
+   "duration": "00:01:04",
+   "episodes": 83,
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "id": "6a2d863b088916f961f1d0d5",
+   "logo": "logo/Logo_1781368378503.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1781368376650.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1781368377226.webp",
+   "slug": "toota-huwa-dil",
+   "stream": null,
+   "title": "Toota Huwa Dil",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920x1080_1774362570474.webp",
+   "coverBig": "desktop/1920x1080_1774362570474.webp",
+   "description": null,
+   "duration": "00:01:02",
+   "episodes": 41,
+   "genres": [
+    "Romance",
+    "Drama",
+    "Action and Adventure"
+   ],
+   "id": "69c29fcb1c8041efca09e85b",
+   "logo": "logo/LOGO-512X512-2_1774365707660.webp",
+   "poster": "poster/280x400_1774362568978.webp",
+   "posterHD": "mobile/1240x1748_1774362569518.webp",
+   "slug": "mirza-ki-heer",
+   "stream": null,
+   "title": "Mirza Ki Heer",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1764700176634.webp",
+   "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1764700176634.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 30,
+   "genres": [
+    "Drama",
+    "Suspense & Thriller"
+   ],
+   "id": "66e2df55853c7317036f16c2",
+   "logo": "logo/Lofo_1764700177931.webp",
+   "poster": "poster/Poster-Image-280x400-With-Logo_1764700170792.webp",
+   "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1764700173094.webp",
+   "slug": "cheekh",
+   "stream": null,
+   "title": "Cheekh",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920x1080_1756838497948.webp",
+   "coverBig": "desktop/1920x1080_1756838497948.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 6,
+   "genres": [
+    "Drama",
+    "Entertainment",
+    "Action and Adventure"
+   ],
+   "id": "676d782075198d42564af7f5",
+   "logo": "logo/570x270_1737017173563.webp",
+   "poster": "poster/280x400_1769352381219.webp",
+   "posterHD": "mobile/1240x1748_1756840018886.webp",
+   "slug": "sar-e-rah",
+   "stream": null,
+   "title": "Sar-e-Rah",
+   "type": "show"
+  },
+  {
+   "age": "G",
+   "cover": "desktop/1920x1080_1762541873593.webp",
+   "coverBig": "desktop/1920x1080_1762541873593.webp",
+   "description": null,
+   "duration": "00:00:00",
+   "episodes": 32,
+   "genres": [
+    "Drama",
+    "Suspense & Thriller"
+   ],
+   "id": "6762f0b44d53732e4183fb18",
+   "logo": "logo/Logo-512x512_1758996764602.webp",
+   "poster": "poster/280x400_1762541864585.webp",
+   "posterHD": "mobile/1240x1748_1762541869220.webp",
+   "slug": "dunk",
+   "stream": null,
+   "title": "Dunk",
+   "type": "show"
+  }
+ ],
+ "hero": [
+  {
+   "cover": "https://image.tmdb.org/t/p/w1280/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+   "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+   "duration": "173 min",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "id": "cinema-movie-tt33764258",
+   "imdb": "tt33764258",
+   "logo": "https://image.tmdb.org/t/p/original/kX6ZX4GL7km04332caiOVapR2lb.png",
+   "mediaType": "movie",
+   "minutes": 173,
+   "poster": "https://image.tmdb.org/t/p/w780/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
+   "posterClean": true,
+   "rating": "8.4",
+   "slug": "the-odyssey-2026",
+   "source": "cinema",
+   "textless": true,
+   "title": "The Odyssey",
+   "type": "movie",
+   "year": "2026"
+  },
+  {
+   "cover": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+   "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
+   "duration": "54 min",
+   "genres": [
+    "Action"
+   ],
+   "id": "cinema-series-tt23112594",
+   "imdb": "tt23112594",
+   "logo": "https://image.tmdb.org/t/p/original/1SEW33fQb4RfXQ6hWeuo7j2d5sR.png",
+   "mediaType": "series",
+   "minutes": 54,
+   "poster": "https://image.tmdb.org/t/p/w780/molehSx8FQUupIDxxYLDse5DAVV.jpg",
+   "posterClean": true,
+   "rating": "7.8",
+   "slug": "visionquest-2026",
+   "source": "cinema",
+   "textless": true,
+   "title": "VisionQuest",
+   "type": "show",
+   "year": "2026"
+  },
+  {
+   "cover": "https://image.tmdb.org/t/p/w1280/uVukvj5r9jEMva78IfaGWMNwGe.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/uVukvj5r9jEMva78IfaGWMNwGe.jpg",
+   "description": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil ...",
+   "duration": "69 min",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "id": "cinema-series-tt7631058",
+   "imdb": "tt7631058",
+   "logo": "https://image.tmdb.org/t/p/original/fA1eS6rfYjS9W8AZbBVG0fpxXn1.png",
+   "mediaType": "series",
+   "minutes": 69,
+   "poster": "https://image.tmdb.org/t/p/w780/qTMn0dFVxT6AreSF2Is2EEKxBZe.jpg",
+   "posterClean": true,
+   "rating": "6.8",
+   "slug": "the-lord-of-the-rings-the-rings-of-power-2022",
+   "source": "cinema",
+   "textless": true,
+   "title": "The Lord of the Rings: The Rings of Power",
+   "type": "show",
+   "year": "2022–"
+  },
+  {
+   "cover": "https://image.tmdb.org/t/p/w1280/sEDKhpXWr4H3heS1knFOebYzI1e.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/sEDKhpXWr4H3heS1knFOebYzI1e.jpg",
+   "description": "A man awakes from a coma to find that his well-being is now the responsibility of an avatar provided by the government.",
+   "duration": "93 min",
+   "genres": [
+    "Crime",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "id": "cinema-movie-tt13884466",
+   "imdb": "tt13884466",
+   "logo": "https://image.tmdb.org/t/p/original/gx2B6F1SwC7y8vZJFJsBfiL4sD2.png",
+   "mediaType": "movie",
+   "minutes": 93,
+   "poster": "https://image.tmdb.org/t/p/w780/c1o0FU30Ar5eyf2aT5mftyIHBQu.jpg",
+   "posterClean": true,
+   "rating": "3.7",
+   "slug": "model-citizen-2026",
+   "source": "cinema",
+   "textless": true,
+   "title": "Model Citizen",
+   "type": "movie",
+   "year": "2026"
+  },
+  {
+   "cover": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+   "description": "Bela, an 8-year-old girl living in a home with marital problems, confronts a sinister entity which comes out of her closet. The presence, whom she calls \"Other Mommy,\" becomes increasingly threatening to her and her family.",
+   "duration": "93 min",
+   "genres": [
+    "Horror"
+   ],
+   "id": "cinema-movie-tt36586020",
+   "imdb": "tt36586020",
+   "logo": "https://image.tmdb.org/t/p/original/ucJJl3ddTi83DqXgGEoblci3uBg.png",
+   "mediaType": "movie",
+   "minutes": 93,
+   "poster": "https://image.tmdb.org/t/p/w780/lA8kKIWLouCn4OHjeIOtP46F3aZ.jpg",
+   "posterClean": true,
+   "rating": "5.3",
+   "slug": "other-mommy-2026",
+   "source": "cinema",
+   "textless": true,
+   "title": "Other Mommy",
+   "type": "movie",
+   "year": "2026"
+  },
+  {
+   "cover": "https://image.tmdb.org/t/p/w1280/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+   "coverBig": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+   "description": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+   "duration": "101 min",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "id": "cinema-movie-tt7526136",
+   "imdb": "tt7526136",
+   "logo": "https://image.tmdb.org/t/p/original/zJ3jZa2gJzEQ8KWRxMYRox3qr2O.png",
+   "mediaType": "movie",
+   "minutes": 101,
+   "poster": "https://image.tmdb.org/t/p/w780/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg",
+   "posterClean": true,
+   "rating": "7.2",
+   "slug": "heart-of-the-beast-2026",
+   "source": "cinema",
+   "textless": true,
+   "title": "Heart of the Beast",
+   "type": "movie",
+   "year": "2026"
+  }
+ ],
+ "rows": [
+  {
+   "items": [
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo-copy_1790783314133.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo-copy_1790783314133.webp",
+     "description": null,
+     "duration": "",
+     "episodes": 11,
+     "genres": [
+      "Drama",
+      "Family"
+     ],
+     "id": "6aabeb956ff05a2ba20dc641",
+     "logo": "logo/Logo_1790783315146.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1790783312410.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1790783313130.webp",
+     "slug": "rutba",
+     "stream": null,
+     "title": "Rutba",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920X1080_1784120969405.webp",
+     "coverBig": "desktop/1920X1080_1784120969405.webp",
+     "description": null,
+     "duration": "00:00:56",
+     "episodes": 31,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Family"
+     ],
+     "id": "6a57868b5bf57c474cc00a50",
+     "logo": "logo/LOGO_1784120970077.webp",
+     "newAt": 1794660795,
+     "newKind": "episode",
+     "poster": "poster/280X400_1784120968010.webp",
+     "posterHD": "mobile/1240X1748_1784120968732.webp",
+     "slug": "dar-e-nijaat",
+     "stream": null,
+     "title": "Dar-E-Nijaat",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920-1_1788282434426.webp",
+     "coverBig": "desktop/1920-1_1788282434426.webp",
+     "description": null,
+     "duration": "00:00:57",
+     "episodes": 18,
+     "genres": [
+      "Drama",
+      "Family"
+     ],
+     "id": "6a96f2a8c0a797111787be34",
+     "logo": "logo/logo_1789566163094.webp",
+     "poster": "poster/280x400-1_1788282433040.webp",
+     "posterHD": "mobile/1240_1788282433652.webp",
+     "slug": "hey-fam",
+     "stream": null,
+     "title": "Hey Fam",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop.jpg_1791124393178.webp",
+     "coverBig": "desktop/Desktop.jpg_1791124393178.webp",
+     "description": null,
+     "duration": "",
+     "episodes": 17,
+     "genres": [
+      "Drama",
+      "Family"
+     ],
+     "id": "6ac263ac72ea11541e315e79",
+     "logo": "logo/Logo_1791124394571.webp",
+     "newAt": 1794568715,
+     "newKind": "episode",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1791124391063.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1791124391930.webp",
+     "slug": "lagan-lagi",
+     "stream": null,
+     "title": "Lagan Lagi",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920X1080_1789064833635.webp",
+     "coverBig": "desktop/1920X1080_1789064833635.webp",
+     "description": null,
+     "duration": "00:00:55",
+     "episodes": 56,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Family"
+     ],
+     "id": "6aa2f683be0ea0b789204b92",
+     "logo": "logo/logo_1789064834295.webp",
+     "newAt": 1794660795,
+     "newKind": "episode",
+     "poster": "poster/280x400_1789064832518.webp",
+     "posterHD": "mobile/1240x1748_1789064833070.webp",
+     "slug": "izzat",
+     "stream": null,
+     "title": "Izzat",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1783347935866.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1783347935866.webp",
+     "description": null,
+     "duration": "00:00:52",
+     "episodes": 65,
+     "genres": [
+      "Romance"
+     ],
+     "id": "6a4bbae15bf57c474cab6d0a",
+     "logo": "logo/Logo_1783347936594.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1783347934296.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1783347935002.webp",
+     "slug": "main-tera",
+     "stream": null,
+     "title": "Main Tera",
+     "type": "show"
+    }
+   ],
+   "title": "Dramas"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+     "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+     "duration": "109 min",
+     "genres": [
+      "Horror",
+      "Thriller"
+     ],
+     "id": "cinema-movie-tt37287335",
+     "imdb": "tt37287335",
+     "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+     "mediaType": "movie",
+     "minutes": 109,
+     "poster": "https://image.tmdb.org/t/p/w780/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "obsession-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Obsession",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cover": "https://image.tmdb.org/t/p/w1280/pz3tBwbhBK1gIqf8niTAicZdyT9.jpg",
+     "coverBig": "https://i.ytimg.com/vi/MeirQRJls1A/maxresdefault.jpg",
+     "description": "Digitally associated by Vince\n\nHurmat is a tale of love, pride, and tested ties. Caught between the heavy demands of honor and the unspoken yearnings of the heart, fragile relationships unravel under the weight of secrets and misunderstandings. As sacrifices collide with harsh realities, will destiny heal what time tore apart, or leave an indelible scar on every heart?\nWritten by Kashif Anwar\nDirected by Nadeem Siddique",
+     "episodes": 12,
+     "fallback": "https://i.ytimg.com/vi/MeirQRJls1A/maxresdefault.jpg",
+     "genres": [
+      "Drama"
+     ],
+     "id": "yt-e7c85664c534",
+     "poster": "https://image.tmdb.org/t/p/w780/mxRs8kaLfNQClZpnyuH67jjwF6v.jpg",
+     "slug": "hurmat",
+     "source": "youtube",
+     "textless": true,
+     "title": "Hurmat",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920X1080_1784120969405.webp",
+     "coverBig": "desktop/1920X1080_1784120969405.webp",
+     "description": null,
+     "duration": "00:00:56",
+     "episodes": 31,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Family"
+     ],
+     "id": "6a57868b5bf57c474cc00a50",
+     "logo": "logo/LOGO_1784120970077.webp",
+     "newAt": 1794660795,
+     "newKind": "episode",
+     "poster": "poster/280X400_1784120968010.webp",
+     "posterHD": "mobile/1240X1748_1784120968732.webp",
+     "slug": "dar-e-nijaat",
+     "stream": null,
+     "title": "Dar-E-Nijaat",
+     "type": "show"
+    },
+    {
+     "cover": "https://image.tmdb.org/t/p/w1280/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+     "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+     "duration": "173 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt33764258",
+     "imdb": "tt33764258",
+     "logo": "https://image.tmdb.org/t/p/original/kX6ZX4GL7km04332caiOVapR2lb.png",
+     "mediaType": "movie",
+     "minutes": 173,
+     "poster": "https://image.tmdb.org/t/p/w780/ugEXTmwvFj8oqOui6ZwXjQgSwAp.jpg",
+     "posterClean": true,
+     "rating": "8.4",
+     "slug": "the-odyssey-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Odyssey",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Summer H. Howell",
+      "Samantha Sloyan",
+      "Siena Agudong"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+     "description": "After her father's sudden death, sheltered teenager Carrie White, raised by her domineering mother, enters public high school, where she faces a viral bullying scandal and the awakening of mysterious telekinetic powers.",
+     "duration": "52 min",
+     "episodes": 8,
+     "genres": [
+      "Drama",
+      "Horror"
+     ],
+     "id": "cinema-series-tt11540908",
+     "imdb": "tt11540908",
+     "logo": "https://image.tmdb.org/t/p/original/zfgGWolG1xWy7VBEUKylRAIhlXY.png",
+     "mediaType": "series",
+     "minutes": 52,
+     "newAt": 1791331200,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "carrie-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Carrie",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Austin Abrams",
+      "Paul Walter Hauser",
+      "Zach Cherry"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+     "description": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+     "duration": "94 min",
+     "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt35538033",
+     "imdb": "tt35538033",
+     "logo": "https://image.tmdb.org/t/p/original/vMIJP6pOvzh6vZQ8SNSM4q4LlVA.png",
+     "mediaType": "movie",
+     "minutes": 94,
+     "newAt": 1789516800,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg",
+     "posterClean": true,
+     "rating": "7.4",
+     "slug": "resident-evil-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Resident Evil",
+     "type": "movie",
+     "year": "2026"
+    }
+   ],
+   "noTags": true,
+   "title": "Top 10 on zunflix"
+  },
+  {
+   "items": [
+    {
+     "channel": "HUM TV",
+     "cover": "https://i.ytimg.com/vi/1u2IAMtpfFk/maxresdefault.jpg",
+     "coverBig": "https://i.ytimg.com/vi/1u2IAMtpfFk/maxresdefault.jpg",
+     "episodes": 24,
+     "fallback": "https://i.ytimg.com/vi/1u2IAMtpfFk/mqdefault.jpg",
+     "genres": [
+      "Drama"
+     ],
+     "id": "yt-3cee8e85a42c",
+     "latest": 25,
+     "newAt": 1794675969,
+     "newKind": "episode",
+     "poster": "https://i.ytimg.com/vi/1u2IAMtpfFk/maxresdefault.jpg",
+     "slug": "zehar-e-mohabbat",
+     "source": "youtube",
+     "title": "Zehar-e-Mohabbat",
+     "type": "show"
+    },
+    {
+     "channel": "Har Pal Geo",
+     "cover": "https://image.tmdb.org/t/p/w1280/ctsvnPykIzoMYnrm1egUXuhtPpe.jpg",
+     "coverBig": "https://i.ytimg.com/vi/iom21w9SQr8/maxresdefault.jpg",
+     "episodes": 27,
+     "fallback": "https://i.ytimg.com/vi/iom21w9SQr8/mqdefault.jpg",
+     "genres": [
+      "Drama"
+     ],
+     "id": "yt-1abcd953ecac",
+     "latest": 31,
+     "newAt": 1794675969,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/ptDBZ32OYqsrlGxh8VfQAg6OBR6.jpg",
+     "slug": "bano",
+     "source": "youtube",
+     "textless": true,
+     "title": "Bano",
+     "type": "show"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/xzW1S4Uqt4hJsOveSZaIxax21jD.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/xzW1S4Uqt4hJsOveSZaIxax21jD.jpg",
+     "description": "Lufas Maphaahl, the black-winged overlord and leader of the Twelves Stars of Heaven, has been vanquished. A man wakes up in the body of the Exgate game character Lufas, two hundred years after her defeat at the hands of the seven heroes.",
+     "episodes": 20,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4e6ab64d200c87068cdb9-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "id": "anime-b64-YS13aWxkLWxhc3QtYm9zcy1hcHBlYXJlZCEtbmhsbzdu",
+     "latest": 20,
+     "logo": "https://image.tmdb.org/t/p/original/cklffgw8EqqWLiobCuXI1jBa2fU.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/jiqYElnrwuulciO0ZDC15pYrH3p.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "seasons": [
+      {
+       "episodes": 12,
+       "id": "anime-b64-YS13aWxkLWxhc3QtYm9zcy1hcHBlYXJlZCEtbmhsbzdu",
+       "label": "Season 1",
+       "number": 1
+      },
+      {
+       "episodes": 8,
+       "id": "anime-b64-YS13aWxkLWxhc3QtYm9zcy1hcHBlYXJlZCEtc2Vhc29uLTItdDh4NmVt",
+       "label": "Season 2",
+       "number": 2
+      }
+     ],
+     "slug": "a-wild-last-boss-appeared",
+     "source": "anime",
+     "textless": true,
+     "title": "A Wild Last Boss Appeared!",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13",
+     "cover": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+     "description": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any.",
+     "episodes": 180,
+     "fallback": "https://animehot.cc/storage/media/2026/09/6a8ec02f6b1a2ef8b32c7710-poster.png",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+     ],
+     "id": "anime-black-clover-39vkmh",
+     "latest": 180,
+     "logo": "https://image.tmdb.org/t/p/original/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/qqFxflPjvS2S8VZONeDffkbs6lr.jpg",
+     "posterClean": true,
+     "rating": "8.3",
+     "seasons": [
+      {
+       "episodes": 170,
+       "id": "anime-black-clover-39vkmh",
+       "label": "Season 1",
+       "number": 1
+      },
+      {
+       "episodes": 7,
+       "id": "anime-black-clover-season-2-5hp2qd",
+       "label": "Season 2",
+       "number": 2
+      },
+      {
+       "episodes": 1,
+       "extra": true,
+       "id": "anime-b64-YmxhY2stY2xvdmVyOi1qdW1wLWZlc3RhLTIwMTYtc3BlY2lhbC0yczc3YTY",
+       "label": "Special · Jump Festa 2016 Special",
+       "number": 2000
+      },
+      {
+       "episodes": 1,
+       "extra": true,
+       "id": "anime-b64-YmxhY2stY2xvdmVyOi10aGUtYWxsLW1hZ2ljLWtuaWdodHMtdGhhbmtzZ2l2aW5nLWZlc3RhLWd2NHVpaA",
+       "label": "Special · The All Magic Knights Thanksgiving Festa",
+       "number": 2001
+      },
+      {
+       "episodes": 1,
+       "extra": true,
+       "id": "anime-b64-YmxhY2stY2xvdmVyOi1zd29yZC1vZi10aGUtd2l6YXJkLWtpbmctaWE0Y20w",
+       "label": "Movie · Sword of the Wizard King",
+       "number": 2002
+      }
+     ],
+     "slug": "black-clover",
+     "source": "anime",
+     "textless": true,
+     "title": "Black Clover",
+     "type": "show",
+     "year": "2017"
+    },
+    {
+     "adult": false,
+     "age": "PG-13",
+     "cover": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+     "description": "It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing!",
+     "episodes": 6,
+     "fallback": "https://animehot.cc/storage/media/2026/10/6ac11f63084af4f873a5e63e-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+     ],
+     "id": "anime-b64-aSdtLWxvb2tpbmctZm9yLWEtem9tYmllLXBibzBhaw",
+     "latest": 6,
+     "logo": "https://image.tmdb.org/t/p/original/1SMygZPB6m392uOgvixy0OyijUJ.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "i-m-looking-for-a-zombie",
+     "source": "anime",
+     "textless": true,
+     "title": "#I'm Looking For a Zombie",
+     "type": "show",
+     "year": "2026"
+    },
+    {
+     "adult": false,
+     "age": "PG-13",
+     "cover": "https://image.tmdb.org/t/p/w1280/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
+     "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander.",
+     "episodes": 7,
+     "fallback": "https://animehot.cc/storage/media/2026/10/6ac120fd26e9f290c8efa66d-poster.png",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+     ],
+     "id": "anime-the-seven-knights-of-the-marronnier-kingdom-dpkquf",
+     "latest": 7,
+     "logo": "https://image.tmdb.org/t/p/original/m0jBWgYL5YuP81xwitALPQ4P44g.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/hEiqdcoZFq3RqanHoR75HQFnWyK.jpg",
+     "posterClean": true,
+     "rating": "5.5",
+     "slug": "the-seven-knights-of-the-marronnier-kingdom",
+     "source": "anime",
+     "textless": true,
+     "title": "The Seven Knights of the Marronnier Kingdom",
+     "type": "show",
+     "year": "2026"
+    }
+   ],
+   "noTags": true,
+   "title": "Latest Episodes"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Scarlett Crabtree",
+      "Josephine Flynn",
+      "Benedict Hardie"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+     "description": "",
+     "duration": "105 min",
+     "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+     ],
+     "id": "cinema-movie-tt37675123",
+     "imdb": "tt37675123",
+     "logo": "https://image.tmdb.org/t/p/original/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
+     "mediaType": "movie",
+     "minutes": 105,
+     "newAt": 1794441600,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/bdqX3tOBJRDEDyARkJQ2Fqsc0G3.jpg",
+     "posterClean": true,
+     "rating": null,
+     "slug": "allen-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Allen",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Lukman Sardi",
+      "Derby Romero",
+      "Donny Alamsyah"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+     "coverBig": "https://images.metahub.space/background/large/tt39370926/img",
+     "description": "An ex-soldier and his grandchildren battle against ruthless criminals in a remote village. To survive, they must also confront their fears and regrets.",
+     "duration": "137 min",
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt39370926",
+     "imdb": "tt39370926",
+     "logo": "https://image.tmdb.org/t/p/original/axWBI3wxJFiVlNSVyJL5NRiZRvZ.png",
+     "mediaType": "movie",
+     "minutes": 137,
+     "newAt": 1794355200,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+     "posterClean": true,
+     "rating": null,
+     "slug": "never-surrender-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Never Surrender",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Johnny Depp",
+      "Sam Claflin",
+      "Daisy Ridley"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+     "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
+     "duration": "115 min",
+     "genres": [
+      "Fantasy"
+     ],
+     "id": "cinema-movie-tt38773219",
+     "imdb": "tt38773219",
+     "logo": "https://image.tmdb.org/t/p/original/tq1PSG2Xq7GkFrMVvJpfGU6wEKW.png",
+     "mediaType": "movie",
+     "minutes": 115,
+     "newAt": 1794355200,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/5J00g52JePaoJpRjq4yfpMMxrZL.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "ebenezer-a-christmas-carol-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Ebenezer: A Christmas Carol",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Alexej Manvelov",
+      "Jim Caviezel",
+      "Garret Dillahunt"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/nHhkgPp4kZUwlTTEZe5g3MoKl8g.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/nHhkgPp4kZUwlTTEZe5g3MoKl8g.jpg",
+     "description": "A weapon systems engineer and former Green Beret protects his Wyoming neighbors against a ruthless corporation threatening their rural community.",
+     "duration": "90 min",
+     "genres": [
+      "Action",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt38686316",
+     "imdb": "tt38686316",
+     "logo": "https://image.tmdb.org/t/p/original/wLNBiQT6kWvp6vfFGl4dNfel8vp.png",
+     "mediaType": "movie",
+     "minutes": 90,
+     "newAt": 1793923200,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/ypeR1a0RdwXOKR00klhcRJop1pA.jpg",
+     "posterClean": true,
+     "rating": "6.8",
+     "slug": "archangel-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Archangel",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Ranbir Kapoor",
+      "Yash",
+      "Sai Pallavi"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+     "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+     "duration": "201 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt27988879",
+     "imdb": "tt27988879",
+     "logo": "https://image.tmdb.org/t/p/original/xsMGmNELfdLQrzbCcgaGgbBYv7B.png",
+     "mediaType": "movie",
+     "minutes": 201,
+     "newAt": 1793836800,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/lgJgvYYb3Em45CgDveojRrkMuQp.jpg",
+     "posterClean": true,
+     "rating": "8.3",
+     "slug": "ramayana-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Ramayana",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Mary Steenburgen",
+      "Jennifer Tilly",
+      "Dennis Quaid"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+     "description": "A sage basset hound narrates how his family faces turmoil when Mrs. Goss falls into an induced coma, and a new Corgi pup helps unite the scattered household during their mother's absence.",
+     "duration": "102 min",
+     "genres": [
+      "Drama"
+     ],
+     "id": "cinema-movie-tt38515310",
+     "imdb": "tt38515310",
+     "logo": "https://image.tmdb.org/t/p/original/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+     "mediaType": "movie",
+     "minutes": 102,
+     "newAt": 1793750400,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/qxbtN0FKqn22AHAIgqSOOVxGUB9.jpg",
+     "posterClean": true,
+     "rating": "6.4",
+     "slug": "a-dog-s-perfect-christmas-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "A Dog's Perfect Christmas",
+     "type": "movie",
+     "year": "2026"
+    }
+   ],
+   "noTags": true,
+   "title": "New Movies"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Paul Bettany",
+      "James Spader",
+      "Ruaridh Mollica"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
+     "duration": "54 min",
+     "episodes": 8,
+     "genres": [
+      "Action"
+     ],
+     "id": "cinema-series-tt23112594",
+     "imdb": "tt23112594",
+     "logo": "https://image.tmdb.org/t/p/original/1SEW33fQb4RfXQ6hWeuo7j2d5sR.png",
+     "mediaType": "series",
+     "minutes": 54,
+     "newAt": 1794268800,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/molehSx8FQUupIDxxYLDse5DAVV.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "visionquest-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "VisionQuest",
+     "type": "show",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Shin Min-a",
+      "Mitch Craig",
+      "Lee Jong-suk"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+     "description": "Empress Navier is shocked when her husband seeks divorce to wed his mistress. Refusing defeat, she allies with enigmatic Prince Heinrey, risking all to reclaim her throne and outshine her ex amid palace intrigue and romance.",
+     "duration": "55 min",
+     "episodes": 6,
+     "genres": [
+      "Drama",
+      "History",
+      "Romance"
+     ],
+     "id": "cinema-series-tt39325975",
+     "imdb": "tt39325975",
+     "logo": "https://image.tmdb.org/t/p/original/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+     "mediaType": "series",
+     "minutes": 55,
+     "newAt": 1793664000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
+     "posterClean": true,
+     "rating": "7.5",
+     "slug": "the-remarried-empress-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Remarried Empress",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [],
+     "cover": "https://image.tmdb.org/t/p/w1280/yQHskBQhYsnxcoRsYHESSOUaRja.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/yQHskBQhYsnxcoRsYHESSOUaRja.jpg",
+     "description": "",
+     "duration": "40 min",
+     "episodes": 6,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "id": "cinema-series-tt39943756",
+     "imdb": "tt39943756",
+     "logo": "https://image.tmdb.org/t/p/original/yIZq5hr4ztF5ntlGv1QsgwgvBfT.png",
+     "mediaType": "series",
+     "minutes": 40,
+     "newAt": 1793923200,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/F0kIlqnAqXIwPgzeBIc1Qubnwi.jpg",
+     "posterClean": true,
+     "rating": "7.3",
+     "slug": "campus-drivers-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Campus Drivers",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Jirapat Uttamanan",
+      "Siriwalee Siriwibool",
+      "Paphavarin Sawasdiwech"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/VgW1XPEFiwEZgYuR2Wl204DxGL.jpg",
+     "description": "Metha, a man burdened by a buried past, attempts to start over by taking a night shift job at a mysterious convenience store. However, the store operates under a set of strange, inviolable rules—rules that, when broken, unleash supernatural death. Night after night, Metha is forced to confront the uncanny forces within the store… and the sins he once committed, from which there is no escape.",
+     "duration": null,
+     "episodes": 4,
+     "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+     ],
+     "id": "cinema-series-tt50252733",
+     "imdb": "tt50252733",
+     "logo": "https://image.tmdb.org/t/p/original/iEgeOTkclmx0cphKDcXHvNSgwwT.png",
+     "mediaType": "series",
+     "minutes": null,
+     "newAt": 1793145600,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/xeTTKcTXPaYOVephxLFRX97j7Wx.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "the-rules-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Rules",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Yim Si-wan",
+      "Seol In-ah",
+      "Kim Jung-hyun"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+     "description": "An office romantic comedy that follows the story of a conglomerate heir and his new secretary, a former special forces officer now working undercover.",
+     "duration": "63 min",
+     "episodes": 8,
+     "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance"
+     ],
+     "id": "cinema-series-tt45246384",
+     "imdb": "tt45246384",
+     "logo": "https://image.tmdb.org/t/p/original/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+     "mediaType": "series",
+     "minutes": 63,
+     "newAt": 1792368000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "love-in-disguise-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Love in Disguise",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Sara Boustany",
+      "Bella Neuspiel",
+      "Al Sapienza"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+     "description": "A group of misbehaving Catholic school girls experience prophetic visions after a dance-team initiation goes wrong, triggering mass hysteria throughout their town.",
+     "duration": "55 min",
+     "episodes": 8,
+     "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt8014982",
+     "imdb": "tt8014982",
+     "logo": "https://image.tmdb.org/t/p/original/c7PCh5wDlXODksBXElQHiotV9M5.png",
+     "mediaType": "series",
+     "minutes": 55,
+     "newAt": 1794355200,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/qAt9a1DHOEcTK4cNMbOWHLrJCH7.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "the-body-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Body",
+     "type": "show",
+     "year": "2026–"
+    }
+   ],
+   "noTags": true,
+   "title": "New Shows"
+  },
+  {
+   "items": [
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/xzW1S4Uqt4hJsOveSZaIxax21jD.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/xzW1S4Uqt4hJsOveSZaIxax21jD.jpg",
+     "description": "Lufas Maphaahl, the black-winged overlord and leader of the Twelves Stars of Heaven, has been vanquished. A man wakes up in the body of the Exgate game character Lufas, two hundred years after her defeat at the hands of the seven heroes.",
+     "episodes": 20,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4e6ab64d200c87068cdb9-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "id": "anime-b64-YS13aWxkLWxhc3QtYm9zcy1hcHBlYXJlZCEtbmhsbzdu",
+     "latest": 20,
+     "logo": "https://image.tmdb.org/t/p/original/cklffgw8EqqWLiobCuXI1jBa2fU.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/jiqYElnrwuulciO0ZDC15pYrH3p.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "seasons": [
+      {
+       "episodes": 12,
+       "id": "anime-b64-YS13aWxkLWxhc3QtYm9zcy1hcHBlYXJlZCEtbmhsbzdu",
+       "label": "Season 1",
+       "number": 1
+      },
+      {
+       "episodes": 8,
+       "id": "anime-b64-YS13aWxkLWxhc3QtYm9zcy1hcHBlYXJlZCEtc2Vhc29uLTItdDh4NmVt",
+       "label": "Season 2",
+       "number": 2
+      }
+     ],
+     "slug": "a-wild-last-boss-appeared",
+     "source": "anime",
+     "textless": true,
+     "title": "A Wild Last Boss Appeared!",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13",
+     "cover": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+     "description": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any.",
+     "episodes": 180,
+     "fallback": "https://animehot.cc/storage/media/2026/09/6a8ec02f6b1a2ef8b32c7710-poster.png",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+     ],
+     "id": "anime-black-clover-39vkmh",
+     "latest": 180,
+     "logo": "https://image.tmdb.org/t/p/original/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/qqFxflPjvS2S8VZONeDffkbs6lr.jpg",
+     "posterClean": true,
+     "rating": "8.3",
+     "seasons": [
+      {
+       "episodes": 170,
+       "id": "anime-black-clover-39vkmh",
+       "label": "Season 1",
+       "number": 1
+      },
+      {
+       "episodes": 7,
+       "id": "anime-black-clover-season-2-5hp2qd",
+       "label": "Season 2",
+       "number": 2
+      },
+      {
+       "episodes": 1,
+       "extra": true,
+       "id": "anime-b64-YmxhY2stY2xvdmVyOi1qdW1wLWZlc3RhLTIwMTYtc3BlY2lhbC0yczc3YTY",
+       "label": "Special · Jump Festa 2016 Special",
+       "number": 2000
+      },
+      {
+       "episodes": 1,
+       "extra": true,
+       "id": "anime-b64-YmxhY2stY2xvdmVyOi10aGUtYWxsLW1hZ2ljLWtuaWdodHMtdGhhbmtzZ2l2aW5nLWZlc3RhLWd2NHVpaA",
+       "label": "Special · The All Magic Knights Thanksgiving Festa",
+       "number": 2001
+      },
+      {
+       "episodes": 1,
+       "extra": true,
+       "id": "anime-b64-YmxhY2stY2xvdmVyOi1zd29yZC1vZi10aGUtd2l6YXJkLWtpbmctaWE0Y20w",
+       "label": "Movie · Sword of the Wizard King",
+       "number": 2002
+      }
+     ],
+     "slug": "black-clover",
+     "source": "anime",
+     "textless": true,
+     "title": "Black Clover",
+     "type": "show",
+     "year": "2017"
+    },
+    {
+     "adult": false,
+     "age": "PG-13",
+     "cover": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+     "description": "It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing!",
+     "episodes": 6,
+     "fallback": "https://animehot.cc/storage/media/2026/10/6ac11f63084af4f873a5e63e-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+     ],
+     "id": "anime-b64-aSdtLWxvb2tpbmctZm9yLWEtem9tYmllLXBibzBhaw",
+     "latest": 6,
+     "logo": "https://image.tmdb.org/t/p/original/1SMygZPB6m392uOgvixy0OyijUJ.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "i-m-looking-for-a-zombie",
+     "source": "anime",
+     "textless": true,
+     "title": "#I'm Looking For a Zombie",
+     "type": "show",
+     "year": "2026"
+    },
+    {
+     "adult": false,
+     "age": "PG-13",
+     "cover": "https://image.tmdb.org/t/p/w1280/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
+     "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander.",
+     "episodes": 7,
+     "fallback": "https://animehot.cc/storage/media/2026/10/6ac120fd26e9f290c8efa66d-poster.png",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+     ],
+     "id": "anime-the-seven-knights-of-the-marronnier-kingdom-dpkquf",
+     "latest": 7,
+     "logo": "https://image.tmdb.org/t/p/original/m0jBWgYL5YuP81xwitALPQ4P44g.png",
+     "mature": false,
+     "newAt": 1794673053,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/hEiqdcoZFq3RqanHoR75HQFnWyK.jpg",
+     "posterClean": true,
+     "rating": "5.5",
+     "slug": "the-seven-knights-of-the-marronnier-kingdom",
+     "source": "anime",
+     "textless": true,
+     "title": "The Seven Knights of the Marronnier Kingdom",
+     "type": "show",
+     "year": "2026"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+     "description": "Shinichi Kudou, a high school student of astounding talent in detective work, is well known for having solved several challenging cases.",
+     "episodes": 1220,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e9fb30db6b94ca4540a8dc-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery"
+     ],
+     "id": "anime-case-closed-hn7zhh",
+     "latest": 1220,
+     "logo": "https://image.tmdb.org/t/p/original/vX0VEwZViadujTUGcL0EU5orV8p.png",
+     "mature": false,
+     "newAt": 1794664675,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/6bJ6Jq92CxkSPM3esFlwkU7ILgd.jpg",
+     "posterClean": true,
+     "rating": "8.5",
+     "slug": "case-closed",
+     "source": "anime",
+     "textless": true,
+     "title": "Case Closed",
+     "type": "show",
+     "year": "1996"
+    },
+    {
+     "adult": false,
+     "age": "PG-13",
+     "cover": "https://image.tmdb.org/t/p/w1280/l4npGR3d7No2Msr8OptVTek6G41.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/l4npGR3d7No2Msr8OptVTek6G41.jpg",
+     "description": "Romelia and her party succeed in defeating the Demon King Zelgis, though Prince Henri’s reckless charge forces them into a grueling battle.",
+     "episodes": 7,
+     "fallback": "https://animehot.cc/storage/media/2026/10/6ac10a21f43642b6320fb2dc-poster.png",
+     "format": "ONA",
+     "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+     ],
+     "id": "anime-romelia-war-chronicle-kv7ihi",
+     "latest": 7,
+     "logo": "https://image.tmdb.org/t/p/original/hXWCx0n6cYBMcjngZ8M2iZXLwmZ.png",
+     "mature": false,
+     "newAt": 1794663695,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/gyMINlLwZsxCnNmwCh1pG15cqj2.jpg",
+     "posterClean": true,
+     "rating": "7.4",
+     "slug": "romelia-war-chronicle",
+     "source": "anime",
+     "textless": true,
+     "title": "Romelia War Chronicle",
+     "type": "show",
+     "year": "2026"
+    }
+   ],
+   "noTags": true,
+   "title": "New anime episodes"
+  },
+  {
+   "items": [
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1756838497948.webp",
+     "coverBig": "desktop/1920x1080_1756838497948.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 6,
+     "genres": [
+      "Drama",
+      "Entertainment",
+      "Action and Adventure"
+     ],
+     "id": "676d782075198d42564af7f5",
+     "logo": "logo/570x270_1737017173563.webp",
+     "poster": "poster/280x400_1769352381219.webp",
+     "posterHD": "mobile/1240x1748_1756840018886.webp",
+     "slug": "sar-e-rah",
+     "stream": null,
+     "title": "Sar-e-Rah",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761418873535.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761418873535.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 36,
+     "genres": [
+      "Drama",
+      "Family"
+     ],
+     "id": "67f3dfe4ac7c1db7bc439950",
+     "logo": "logo/Logo_1761151551355.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1761418871661.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1761151548924.webp",
+     "slug": "parwarish",
+     "stream": null,
+     "title": "PARWARISH",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1762541873593.webp",
+     "coverBig": "desktop/1920x1080_1762541873593.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 32,
+     "genres": [
+      "Drama",
+      "Suspense & Thriller"
+     ],
+     "id": "6762f0b44d53732e4183fb18",
+     "logo": "logo/Logo-512x512_1758996764602.webp",
+     "poster": "poster/280x400_1762541864585.webp",
+     "posterHD": "mobile/1240x1748_1762541869220.webp",
+     "slug": "dunk",
+     "stream": null,
+     "title": "Dunk",
+     "type": "show"
+    },
+    {
+     "age": "13+",
+     "cover": "desktop/1920x1080_1761228872474.webp",
+     "coverBig": "desktop/1920x1080_1761228872474.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 36,
+     "genres": [
+      "Drama",
+      "Family"
+     ],
+     "id": "66ed74c23b3493ab9d697091",
+     "logo": "logo/570-x-270_1726837852231.png",
+     "poster": "poster/280x400_1761228865415.webp",
+     "posterHD": "mobile/1240x1748_1761228868793.webp",
+     "slug": "ghair",
+     "stream": null,
+     "title": "Ghair",
+     "type": "show"
+    },
+    {
+     "age": "13+",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761655691127.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761655691127.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 43,
+     "genres": [
+      "Romance",
+      "Drama"
+     ],
+     "id": "67937c42ad69ee6edb4aac8a",
+     "logo": "logo/Logo-512x512_1761655691667.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1761655686341.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1761655688732.webp",
+     "slug": "dastak",
+     "stream": null,
+     "title": "DASTAK",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1757961047265.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1757961047265.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 62,
+     "genres": [
+      "Romance",
+      "Drama"
+     ],
+     "id": "67bdc93022f870f22d7643e2",
+     "logo": "logo/Naqaab_1748875527549.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1757961045217.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1757961046200.webp",
+     "slug": "naqaab",
+     "stream": null,
+     "title": "Naqaab",
+     "type": "show"
+    }
+   ],
+   "title": "Most Popular In Your Region"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Brad Pitt",
+      "J.K. Simmons",
+      "Anna Lambe"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+     "description": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+     "duration": "101 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt7526136",
+     "imdb": "tt7526136",
+     "logo": "https://image.tmdb.org/t/p/original/zJ3jZa2gJzEQ8KWRxMYRox3qr2O.png",
+     "mediaType": "movie",
+     "minutes": 101,
+     "newAt": 1789776000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "heart-of-the-beast-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Heart of the Beast",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Austin Abrams",
+      "Paul Walter Hauser",
+      "Zach Cherry"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+     "description": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+     "duration": "94 min",
+     "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt35538033",
+     "imdb": "tt35538033",
+     "logo": "https://image.tmdb.org/t/p/original/vMIJP6pOvzh6vZQ8SNSM4q4LlVA.png",
+     "mediaType": "movie",
+     "minutes": 94,
+     "newAt": 1789516800,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg",
+     "posterClean": true,
+     "rating": "7.4",
+     "slug": "resident-evil-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Resident Evil",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Robert Pattinson",
+      "Merritt Wever",
+      "Skyler Gisondo"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+     "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+     "duration": "110 min",
+     "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt34206385",
+     "imdb": "tt34206385",
+     "logo": "https://image.tmdb.org/t/p/original/4cE5EHq7ifeBmsINDtvdwCKecNv.png",
+     "mediaType": "movie",
+     "minutes": 110,
+     "newAt": 1790121600,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/q6zV9EG2aOCTW8aiZBzXLIiw0Yz.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "primetime-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Primetime",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+     "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+     "duration": "109 min",
+     "genres": [
+      "Horror",
+      "Thriller"
+     ],
+     "id": "cinema-movie-tt37287335",
+     "imdb": "tt37287335",
+     "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+     "mediaType": "movie",
+     "minutes": 109,
+     "poster": "https://image.tmdb.org/t/p/w780/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "obsession-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Obsession",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Mary Steenburgen",
+      "Jennifer Tilly",
+      "Dennis Quaid"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+     "description": "A sage basset hound narrates how his family faces turmoil when Mrs. Goss falls into an induced coma, and a new Corgi pup helps unite the scattered household during their mother's absence.",
+     "duration": "102 min",
+     "genres": [
+      "Drama"
+     ],
+     "id": "cinema-movie-tt38515310",
+     "imdb": "tt38515310",
+     "logo": "https://image.tmdb.org/t/p/original/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+     "mediaType": "movie",
+     "minutes": 102,
+     "newAt": 1793750400,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/qxbtN0FKqn22AHAIgqSOOVxGUB9.jpg",
+     "posterClean": true,
+     "rating": "6.4",
+     "slug": "a-dog-s-perfect-christmas-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "A Dog's Perfect Christmas",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Anne Hathaway",
+      "Dakota Johnson",
+      "Josh Hartnett"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+     "description": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to...",
+     "duration": "117 min",
+     "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+     ],
+     "id": "cinema-movie-tt32261958",
+     "imdb": "tt32261958",
+     "logo": "https://image.tmdb.org/t/p/original/fG2vYehyvAyka220NGDUGeuabru.png",
+     "mediaType": "movie",
+     "minutes": 117,
+     "newAt": 1790726400,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/iT72Y5FgZxU8hEiwGP9Wb2xLtm9.jpg",
+     "posterClean": true,
+     "rating": "6.0",
+     "slug": "verity-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Verity",
+     "type": "movie",
+     "year": "2026"
+    }
+   ],
+   "title": "Popular movies"
+  },
+  {
+   "items": [
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1779817997079.webp",
+     "coverBig": "desktop/1920x1080_1779817997079.webp",
+     "description": null,
+     "duration": "01:22:20",
+     "episodes": 0,
+     "genres": [
+      "Comedy",
+      "Telefilm",
+      "Telefilms"
+     ],
+     "id": "6a15de0f1a5f8423c95981a3",
+     "logo": "logo/Logo_1779817997927.webp",
+     "poster": "poster/200x400_1780942936807.webp",
+     "posterHD": "mobile/1240x1748_1779817994981.webp",
+     "slug": "mannay-ki-shadi",
+     "stream": "https://vod.aryzap.com/c9b8f8d2vodtransth1313565080/e3d5cae45145403727868261802/adp.10.m3u8",
+     "title": "MANNAY KI SHADI",
+     "type": "movie"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1779993673140.webp",
+     "coverBig": "desktop/1920x1080_1779993673140.webp",
+     "description": null,
+     "duration": "01:19:00",
+     "episodes": 0,
+     "genres": [
+      "Comedy",
+      "Telefilm",
+      "Telefilms"
+     ],
+     "id": "6a18802243e2cb0ba3209c72",
+     "logo": "logo/Logo_1779993673820.webp",
+     "poster": "poster/200x400_1780942883766.webp",
+     "posterHD": "mobile/1240x1748_1779993672431.webp",
+     "slug": "rishta-pakka",
+     "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/99d731ed5145403727259948175/adp.10.m3u8",
+     "title": "RISHTA PAKKA",
+     "type": "movie"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo-1_1772204380786.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo-1_1772204380786.webp",
+     "description": null,
+     "duration": "01:19:47",
+     "episodes": 0,
+     "genres": [
+      "Comedy",
+      "Entertainment",
+      "Telefilm",
+      "Telefilms"
+     ],
+     "id": "69a1b15fb26bd96329021cff",
+     "logo": "logo/envato-labs-image-edit_-_2026-02-16T194439.716_1772204382301.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1772204378681.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1772204379346.webp",
+     "slug": "daku-bangaya-gentleman",
+     "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/adec9db35145403714920255320/adp.10.m3u8",
+     "title": "Daku Bangaya Gentleman",
+     "type": "movie"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1762280992720.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1762280992720.webp",
+     "description": null,
+     "duration": "01:12:54",
+     "episodes": 0,
+     "genres": [
+      "Romance",
+      "Entertainment",
+      "Telefilm",
+      "Telefilms"
+     ],
+     "id": "690a4623ecd31b0ec2bee82c",
+     "logo": "logo/Logo_1762280993359.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1762280989602.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1762280990480.webp",
+     "slug": "ijazat",
+     "stream": "https://vod.aryzap.com/be8170a0vodtranssgp1313565080/7013fcf85145403703093580703/adp.10.m3u8",
+     "title": "Ijazat",
+     "type": "movie"
+    },
+    {
+     "age": "13+",
+     "cover": "desktop/1920x1080_1746781242394.webp",
+     "coverBig": "desktop/1920x1080_1746781242394.webp",
+     "description": null,
+     "duration": "01:41:50",
+     "episodes": 0,
+     "genres": [
+      "Telefilm",
+      "Telefilms"
+     ],
+     "id": "681dbecebefafd61726398c7",
+     "logo": "logo/570x250_1746781245098.webp",
+     "poster": "poster/280x400_1746781233295.webp",
+     "posterHD": "mobile/1400x1300_1746781237240.webp",
+     "slug": "aik-hai-nigar",
+     "stream": "https://vod.aryzap.com/0e66b809vodtranshk1313565080/f1e6e3213560136623170485385/adp.10.m3u8?bkreg=IND",
+     "title": "Aik Hai Nigar",
+     "type": "movie"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1780931558630.webp",
+     "coverBig": "desktop/1920x1080_1780931558630.webp",
+     "description": null,
+     "duration": "02:44:16",
+     "episodes": 0,
+     "genres": [
+      "Telefilm",
+      "Telefilms"
+     ],
+     "id": "6a26dbe81a5f8423c9724147",
+     "logo": "logo/logo_1780931559298.webp",
+     "poster": "poster/280x400_1780931557112.webp",
+     "posterHD": "mobile/1240x1748_1780931557859.webp",
+     "slug": "ghanjini-2",
+     "stream": "https://vod.aryzap.com/0e66b809vodtranshk1313565080/dead84605145403727233077753/adp.10.m3u8",
+     "title": "Ghanjini 2",
+     "type": "movie"
+    }
+   ],
+   "title": "Pakistani films"
+  },
+  {
+   "items": [
+    {
+     "age": "G",
+     "cover": "desktop/1920X1080_1784120969405.webp",
+     "coverBig": "desktop/1920X1080_1784120969405.webp",
+     "description": null,
+     "duration": "00:00:56",
+     "episodes": 31,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Family"
+     ],
+     "id": "6a57868b5bf57c474cc00a50",
+     "logo": "logo/LOGO_1784120970077.webp",
+     "newAt": 1794660795,
+     "newKind": "episode",
+     "poster": "poster/280X400_1784120968010.webp",
+     "posterHD": "mobile/1240X1748_1784120968732.webp",
+     "slug": "dar-e-nijaat",
+     "stream": null,
+     "title": "Dar-E-Nijaat",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1777022204391.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1777022204391.webp",
+     "description": null,
+     "duration": "",
+     "episodes": 23,
+     "genres": [
+      "Romance",
+      "Drama"
+     ],
+     "id": "69eb2bc7ce739b1d92ec6fb7",
+     "logo": "logo/Logo_1782834342282.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1782834338127.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1782834341168.webp",
+     "slug": "kuch-pyar-ka-pagalpan-bhi-tha",
+     "stream": null,
+     "title": "Kuch Pyar Ka Pagalpan Bhi Tha",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920-x-1080_1754934019034.webp",
+     "coverBig": "desktop/1920-x-1080_1754934019034.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 35,
+     "genres": [
+      "Romance",
+      "Drama"
+     ],
+     "id": "689a04d7d9401f93a6aa9366",
+     "logo": "logo/Biryani-2_1755098533245.webp",
+     "poster": "poster/280-x-400_1757079204732.webp",
+     "posterHD": "mobile/1240-x-1748_1754934017580.webp",
+     "slug": "biryani",
+     "stream": null,
+     "title": "Biryani",
+     "type": "show"
+    },
+    {
+     "age": "16+",
+     "cover": "desktop/1920-x-1080-min (1)_1726139215186.jpg",
+     "coverBig": "desktop/1920-x-1080-min (1)_1726139215186.jpg",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 40,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Family"
+     ],
+     "id": "66e2caf47ca3c4d15e87656d",
+     "logo": "logo/meray-humsafar_1748875589664.webp",
+     "poster": "poster/280-x-400_1726139090900.jpg",
+     "posterHD": "mobile/1440-x-1300_1726139095142.jpg",
+     "slug": "mere-humsafar",
+     "stream": null,
+     "title": "Mere Humsafar",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1762277887730.webp",
+     "coverBig": "desktop/1920x1080_1762277887730.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 41,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Action and Adventure"
+     ],
+     "id": "65b218f65af3d5b4d2c852cd",
+     "logo": "logo/Logo-512x521_1761403979809.webp",
+     "poster": "poster/280x400_1762277879208.webp",
+     "posterHD": "mobile/1240x1748_1762277883639.webp",
+     "slug": "jaan-e-jahan",
+     "stream": null,
+     "title": "Jaan-e-Jahan",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1774362570474.webp",
+     "coverBig": "desktop/1920x1080_1774362570474.webp",
+     "description": null,
+     "duration": "00:01:02",
+     "episodes": 41,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Action and Adventure"
+     ],
+     "id": "69c29fcb1c8041efca09e85b",
+     "logo": "logo/LOGO-512X512-2_1774365707660.webp",
+     "poster": "poster/280x400_1774362568978.webp",
+     "posterHD": "mobile/1240x1748_1774362569518.webp",
+     "slug": "mirza-ki-heer",
+     "stream": null,
+     "title": "Mirza Ki Heer",
+     "type": "show"
+    }
+   ],
+   "title": "Romance"
+  },
+  {
+   "items": [
+    {
+     "adult": false,
+     "age": null,
+     "cover": "https://image.tmdb.org/t/p/w1280/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+     "description": "Oda Akira is the kind of guy who people forget is even there. His unassuming nature pays off, though, when his entire class is swept away to a fantasy world, and he slips easily into his new role as a silent assassin.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d1e664d200c87068a484-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "id": "anime-b64-bXktc3RhdHVzLWFzLWFuLWFzc2Fzc2luLW9idmlvdXNseS1leGNlZWRzLXRoZS1oZXJvJ3MtbW4xZDF1",
+     "logo": "https://image.tmdb.org/t/p/original/8dxuiTgtYGNeZ7WYajwz50NUwDo.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/vgOnV7X0dIENy5zpUdvXAlBZekq.jpg",
+     "posterClean": true,
+     "rating": "6.6",
+     "slug": "my-status-as-an-assassin-obviously-exceeds-the-hero-s",
+     "source": "anime",
+     "textless": true,
+     "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/vPEKUiZ1DHZ3sok1oIiOXhk9aAC.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/vPEKUiZ1DHZ3sok1oIiOXhk9aAC.jpg",
+     "description": "Takeru Kamishiro is a normal guy with an ordinary office job but finds himself summoned to another world. Takeru starts his new life in \"Madeus,\" a world with swords and magic, fully equipped with multiple skills!",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d32e64d200c87068a54e-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Adventure",
+      "Fantasy"
+     ],
+     "id": "anime-b64-YS1nYXRoZXJlcidzLWFkdmVudHVyZS1pbi1pc2VrYWktdnphZHV5",
+     "logo": "https://image.tmdb.org/t/p/original/ctSVeC7H1YUp0mszrFdUMBUd3fF.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/hq61AkcpoP2kndCYBOFyJXmnWXb.jpg",
+     "posterClean": true,
+     "rating": "6.1",
+     "slug": "a-gatherer-s-adventure-in-isekai",
+     "source": "anime",
+     "textless": true,
+     "title": "A Gatherer's Adventure in Isekai",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": null,
+     "cover": "https://image.tmdb.org/t/p/w1280/zWTtzr4cwGeVTR3ZOl6JItKkEDy.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/zWTtzr4cwGeVTR3ZOl6JItKkEDy.jpg",
+     "description": "\"This is the punishment for a fat, ugly girl like me falling in love with someone as beautiful as you...\" Yumeko had a mountain of complexes about herself.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d3d464d200c87068a5e0-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "id": "anime-b64-cGx1cy1zaXplZC1taXNhZHZlbnR1cmVzLWluLWxvdmUhLWd6MGs3Zg",
+     "logo": "https://image.tmdb.org/t/p/original/cM9wh1unQx4zl37qUC3xIAEVjnB.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/vwRAhqnsigAnJxrc8hbyIcIu4SB.jpg",
+     "posterClean": true,
+     "rating": "5.9",
+     "slug": "plus-sized-misadventures-in-love",
+     "source": "anime",
+     "textless": true,
+     "title": "Plus-sized Misadventures in Love!",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/4JBfUOMP50CQ2Y7mOHwzXC0eqjY.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/4JBfUOMP50CQ2Y7mOHwzXC0eqjY.jpg",
+     "description": "New shoujo manga artist Nana Futami works hard every day while being supported by Kaede Satou, her female editor who is older than her, and Mizuki Hazama, her assistant.",
+     "episodes": 13,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d41364d200c87068a62b-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy"
+     ],
+     "id": "anime-b64-YS1tYW5nYWthJ3Mtd2VpcmRseS13b25kZXJmdWwtd29ya3BsYWNlLXI2czQxdA",
+     "logo": "https://image.tmdb.org/t/p/original/czosI1mWcWpglbySGYm3sgVqkRV.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/6LuCW4ofXolb1NNtytoPmF6G2XB.jpg",
+     "posterClean": true,
+     "rating": "6.4",
+     "slug": "a-mangaka-s-weirdly-wonderful-workplace",
+     "source": "anime",
+     "textless": true,
+     "title": "A Mangaka's Weirdly Wonderful Workplace",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/gtwdI7qHNrrLe5R7nWnoDgrbEbV.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/gtwdI7qHNrrLe5R7nWnoDgrbEbV.jpg",
+     "description": "Fifteenth season of Yami Shibai.",
+     "episodes": 13,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d6dc64d200c87068ad4e-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Avant Garde",
+      "Horror",
+      "Supernatural"
+     ],
+     "id": "anime-b64-dGhlYXRyZS1vZi1kYXJrbmVzczoteWFtaXNoaWJhaS0xNS1iaHExcG0",
+     "logo": "https://image.tmdb.org/t/p/original/tui9hjWT9ug68HrYjUSU8YlynjO.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w1280/gtwdI7qHNrrLe5R7nWnoDgrbEbV.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "theatre-of-darkness-yamishibai-15",
+     "source": "anime",
+     "textless": true,
+     "title": "Theatre of Darkness: Yamishibai 15",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg",
+     "description": "The inhabitants of a certain wealthy town think nothing of throwing objects away. However, their waste is priceless to Rudo, a resident of the town's slums.",
+     "episodes": 24,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d7f464d200c87068b087-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Fantasy"
+     ],
+     "id": "anime-gachiakuta-tgvlf7",
+     "logo": "https://image.tmdb.org/t/p/original/ccEM7BBPoBky3bvtJuxkDYNVPae.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/fVU3iWF75CIRb6bssiA0Na2zIaH.jpg",
+     "posterClean": true,
+     "rating": "8.0",
+     "slug": "gachiakuta",
+     "source": "anime",
+     "textless": true,
+     "title": "Gachiakuta",
+     "type": "show",
+     "year": "2025"
+    }
+   ],
+   "title": "Popular anime"
+  },
+  {
+   "items": [
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761398228363.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761398228363.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 34,
+     "genres": [
+      "Romance",
+      "Drama",
+      "Family"
+     ],
+     "id": "68fccdd6baf698b3f27d9d83",
+     "logo": "logo/MZHT_Logo_1761398549991.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1761398223558.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1761398226295.webp",
+     "slug": "meri-zindagi-hai-tu",
+     "stream": null,
+     "title": "Meri Zindagi Hai Tu",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/KMKT_-_1920x1080__-without_logo_1751368549281.webp",
+     "coverBig": "desktop/KMKT_-_1920x1080__-without_logo_1751368549281.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 34,
+     "genres": [
+      "Romance",
+      "Drama"
+     ],
+     "id": "6683e59ff3416429c7d90a0e",
+     "logo": "logo/KMKT_-_Logo_3x_1751368551314.webp",
+     "poster": "poster/Kabi_main_kabhi_tum_1767858261882.webp",
+     "posterHD": "mobile/KMKT - 1240 x 1784 - without logo@3x_1750231639052.webp",
+     "slug": "kabhi-main-kabhi-tum",
+     "stream": null,
+     "title": "Kabhi Main Kabhi Tum",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761418873535.webp",
+     "coverBig": "desktop/Desktop-Cover-1920x1080-Without-Logo_1761418873535.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 36,
+     "genres": [
+      "Drama",
+      "Family"
+     ],
+     "id": "67f3dfe4ac7c1db7bc439950",
+     "logo": "logo/Logo_1761151551355.webp",
+     "poster": "poster/Poster-Image-280x400-With-Logo_1761418871661.webp",
+     "posterHD": "mobile/Mob-Cover-1240x1748-Without-Logo_1761151548924.webp",
+     "slug": "parwarish",
+     "stream": null,
+     "title": "PARWARISH",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920x1080_1755279916328.webp",
+     "coverBig": "desktop/1920x1080_1755279916328.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 32,
+     "genres": [
+      "Romance",
+      "Drama"
+     ],
+     "id": "66e2ce4002268589fb0013fe",
+     "logo": "logo/570-x-270_1726139899974.webp",
+     "poster": "poster/280-x-400_1726139890198.webp",
+     "posterHD": "mobile/1440-x-1300_1726139893997.webp",
+     "slug": "mujhe-pyaar-hua-tha",
+     "stream": null,
+     "title": "Mujhe Pyaar Hua Tha",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/1920X1080_1756920765034.webp",
+     "coverBig": "desktop/1920X1080_1756920765034.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 32,
+     "genres": [
+      "Romance",
+      "Drama"
+     ],
+     "id": "64f5b823a0310a5a06fb30d0",
+     "logo": "logo/meinLogo_1748875736837.webp",
+     "poster": "poster/280x400_1756919225286.webp",
+     "posterHD": "mobile/1240x1748_without_logo_1756919227007.webp",
+     "slug": "mein",
+     "stream": null,
+     "title": "Mein",
+     "type": "show"
+    },
+    {
+     "age": "G",
+     "cover": "desktop/Noor_Jahan_1920x1080_New_1761321688281.webp",
+     "coverBig": "desktop/Noor_Jahan_1920x1080_New_1761321688281.webp",
+     "description": null,
+     "duration": "00:00:00",
+     "episodes": 33,
+     "genres": [
+      "Drama",
+      "Family",
+      "Suspense & Thriller",
+      "Action and Adventure"
+     ],
+     "id": "66597cb24ea3ae99381b7b1d",
+     "logo": "logo/Logo-512x512_1761245988922.webp",
+     "poster": "poster/280x400_1784033838692.webp",
+     "posterHD": "mobile/Noor_Jahan_1240x1748_New_1761322116082.webp",
+     "slug": "noor-jahan",
+     "stream": null,
+     "title": "Noor Jahan",
+     "type": "show"
+    }
+   ],
+   "title": "Bingeworthy"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Tom Hardy",
+      "Pierce Brosnan",
+      "Paddy Considine"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+     "description": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces col...",
+     "duration": "47 min",
+     "episodes": 19,
+     "genres": [
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt31510819",
+     "imdb": "tt31510819",
+     "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+     "mediaType": "series",
+     "minutes": 47,
+     "newAt": 1794528000,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+     "posterClean": true,
+     "rating": "8.3",
+     "slug": "mobland-2025",
+     "source": "cinema",
+     "textless": true,
+     "title": "MobLand",
+     "type": "show",
+     "year": "2025–"
+    },
+    {
+     "cast": [
+      "Liev Schreiber",
+      "Zazie Beetz",
+      "Stephen Graham"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+     "description": "Ex-soldier Jonah Lynn leaves Philadelphia for a quiet life. When serial killer Jurek Walter threatens his new home and family, Jonah must protect them, even as he sends his FBI agent daughter Saga to track the killer's last victim.",
+     "duration": "52 min",
+     "episodes": 4,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt26598805",
+     "imdb": "tt26598805",
+     "logo": "https://image.tmdb.org/t/p/original/nB5lOt3DlBdgJVziuOFCIGAkzjF.png",
+     "mediaType": "series",
+     "minutes": 52,
+     "newAt": 1793232000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
+     "posterClean": true,
+     "rating": "7.4",
+     "slug": "nocturne-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Nocturne",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Keira Knightley",
+      "Ben Whishaw",
+      "Charlotte Rice-Foley"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+     "description": "After her lover is murdered by members of London's underworld, a spy - who is publicly the wife of the British Defence Secretary - is protected by an old friend from their agency.",
+     "duration": "53 min",
+     "episodes": 12,
+     "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+     ],
+     "id": "cinema-series-tt27995113",
+     "imdb": "tt27995113",
+     "logo": "https://image.tmdb.org/t/p/original/gDhD19ZXs1JzyWT642h5t365pLz.png",
+     "mediaType": "series",
+     "minutes": 53,
+     "newAt": 1793836800,
+     "newKind": "season",
+     "poster": "https://image.tmdb.org/t/p/w780/xzX1tPr8W9I9S1dhunTsH4XlSN1.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "black-doves-2024",
+     "source": "cinema",
+     "textless": true,
+     "title": "Black Doves",
+     "type": "show",
+     "year": "2024–"
+    },
+    {
+     "cast": [
+      "Michael C. Hall",
+      "Uma Thurman",
+      "Ntare Guma Mbaho Mwine"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+     "description": "Dexter Morgan awakens from a coma and sets out for New York City, determined to find Harrison and make things right. But when Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast.",
+     "duration": "52 min",
+     "episodes": 12,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+     ],
+     "id": "cinema-series-tt33043892",
+     "imdb": "tt33043892",
+     "logo": "https://image.tmdb.org/t/p/original/8vN1JzNMVIVuyhEyGkKwr0NhMPh.png",
+     "mediaType": "series",
+     "minutes": 52,
+     "newAt": 1793491200,
+     "newKind": "season",
+     "poster": "https://image.tmdb.org/t/p/w780/m146j8Jdfnblx0ApCda8DpfxEEC.jpg",
+     "posterClean": true,
+     "rating": "9.0",
+     "slug": "dexter-resurrection-2025",
+     "source": "cinema",
+     "textless": true,
+     "title": "Dexter: Resurrection",
+     "type": "show",
+     "year": "2025–"
+    },
+    {
+     "cast": [
+      "Paul Bettany",
+      "James Spader",
+      "Ruaridh Mollica"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
+     "duration": "54 min",
+     "episodes": 8,
+     "genres": [
+      "Action"
+     ],
+     "id": "cinema-series-tt23112594",
+     "imdb": "tt23112594",
+     "logo": "https://image.tmdb.org/t/p/original/1SEW33fQb4RfXQ6hWeuo7j2d5sR.png",
+     "mediaType": "series",
+     "minutes": 54,
+     "newAt": 1794268800,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/molehSx8FQUupIDxxYLDse5DAVV.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "visionquest-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "VisionQuest",
+     "type": "show",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Summer H. Howell",
+      "Samantha Sloyan",
+      "Siena Agudong"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+     "description": "After her father's sudden death, sheltered teenager Carrie White, raised by her domineering mother, enters public high school, where she faces a viral bullying scandal and the awakening of mysterious telekinetic powers.",
+     "duration": "52 min",
+     "episodes": 8,
+     "genres": [
+      "Drama",
+      "Horror"
+     ],
+     "id": "cinema-series-tt11540908",
+     "imdb": "tt11540908",
+     "logo": "https://image.tmdb.org/t/p/original/zfgGWolG1xWy7VBEUKylRAIhlXY.png",
+     "mediaType": "series",
+     "minutes": 52,
+     "newAt": 1791331200,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "carrie-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Carrie",
+     "type": "show",
+     "year": "2026–"
+    }
+   ],
+   "title": "Popular TV shows"
+  },
+  {
+   "items": [
+    {
+     "adult": false,
+     "age": null,
+     "cover": "https://image.tmdb.org/t/p/w1280/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+     "description": "Oda Akira is the kind of guy who people forget is even there. His unassuming nature pays off, though, when his entire class is swept away to a fantasy world, and he slips easily into his new role as a silent assassin.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d1e664d200c87068a484-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "id": "anime-b64-bXktc3RhdHVzLWFzLWFuLWFzc2Fzc2luLW9idmlvdXNseS1leGNlZWRzLXRoZS1oZXJvJ3MtbW4xZDF1",
+     "logo": "https://image.tmdb.org/t/p/original/8dxuiTgtYGNeZ7WYajwz50NUwDo.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/vgOnV7X0dIENy5zpUdvXAlBZekq.jpg",
+     "posterClean": true,
+     "rating": "6.6",
+     "slug": "my-status-as-an-assassin-obviously-exceeds-the-hero-s",
+     "source": "anime",
+     "textless": true,
+     "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg",
+     "description": "The inhabitants of a certain wealthy town think nothing of throwing objects away. However, their waste is priceless to Rudo, a resident of the town's slums.",
+     "episodes": 24,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d7f464d200c87068b087-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Fantasy"
+     ],
+     "id": "anime-gachiakuta-tgvlf7",
+     "logo": "https://image.tmdb.org/t/p/original/ccEM7BBPoBky3bvtJuxkDYNVPae.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/fVU3iWF75CIRb6bssiA0Na2zIaH.jpg",
+     "posterClean": true,
+     "rating": "8.0",
+     "slug": "gachiakuta",
+     "source": "anime",
+     "textless": true,
+     "title": "Gachiakuta",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+     "description": "\"e-Pulse,\" which is generated by human thoughts and emotions, was used as the energy source for the AI support device \"Sapotama.\" From the shadows of this remarkable development, terrifying monsters appear.",
+     "episodes": 49,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4dd5e64d200c87068bb41-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+     ],
+     "id": "anime-digimon-beatbreak-vhsgut",
+     "logo": "https://image.tmdb.org/t/p/original/60fGv96Af7TmznUNBcz7mLrURh6.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/iQRQ8B79lVhzNPLWxdus7VwSyRa.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "digimon-beatbreak",
+     "source": "anime",
+     "textless": true,
+     "title": "Digimon Beatbreak",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "R - 17+ (violence & profanity)",
+     "cover": "https://image.tmdb.org/t/p/w1280/51nYpuFTTtWuKfspXZt3EMxdxma.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/51nYpuFTTtWuKfspXZt3EMxdxma.jpg",
+     "description": "China’s Warring States period, a raging dragon that would raze the land for 500 years, saw many kingdoms rise and fall, making way for the next generation of kings and generals to fight for supremacy.",
+     "episodes": 154,
+     "fallback": "https://animehot.cc/storage/media/2026/09/690b05591102a20484e60869-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action"
+     ],
+     "id": "anime-kingdom-oxe81m",
+     "logo": "https://image.tmdb.org/t/p/original/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
+     "mature": true,
+     "poster": "https://image.tmdb.org/t/p/w780/wP1aMw4sFB26qKG151GsuH29Sta.jpg",
+     "posterClean": true,
+     "rating": "8.8",
+     "seasons": [
+      {
+       "episodes": 38,
+       "id": "anime-kingdom-oxe81m",
+       "label": "Season 1",
+       "number": 1
+      },
+      {
+       "episodes": 39,
+       "id": "anime-b64-a2luZ2RvbTotc2Vhc29uLTItZWJrM2Vt",
+       "label": "Season 2",
+       "number": 2
+      },
+      {
+       "episodes": 25,
+       "id": "anime-b64-a2luZ2RvbTotc2Vhc29uLTMta3V0a3Zh",
+       "label": "Season 3",
+       "number": 3
+      },
+      {
+       "episodes": 26,
+       "id": "anime-b64-a2luZ2RvbTotc2Vhc29uLTQtbGhxZDR4",
+       "label": "Season 4",
+       "number": 4
+      },
+      {
+       "episodes": 13,
+       "id": "anime-b64-a2luZ2RvbTotc2Vhc29uLTUtenIwcGZv",
+       "label": "Season 5",
+       "number": 5
+      },
+      {
+       "episodes": 13,
+       "id": "anime-b64-a2luZ2RvbTotc2Vhc29uLTYta3RhOG80",
+       "label": "Season 6",
+       "number": 6
+      }
+     ],
+     "slug": "kingdom",
+     "source": "anime",
+     "textless": true,
+     "title": "Kingdom",
+     "type": "show",
+     "year": "2012"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/qFODG6ZkEnpyDGCMuELo9Jgv086.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/qFODG6ZkEnpyDGCMuELo9Jgv086.jpg",
+     "description": "Toujima Tanzaburou has spent his entire life chasing a dream: to become Kamen Rider. Now, at 40, reality has nearly caught up with him, and he's on the verge of letting go of his childhood fantasy.",
+     "episodes": 24,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4e2d564d200c87068c8b1-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Comedy"
+     ],
+     "id": "anime-tojima-wants-to-be-a-kamen-rider-1inpq9",
+     "logo": "https://image.tmdb.org/t/p/original/8hoFphnzyWdSmRhfPicGdUcGb8h.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/6YMFXP2cCmg19bgkotTG6jKpvhP.jpg",
+     "posterClean": true,
+     "rating": "7.6",
+     "slug": "tojima-wants-to-be-a-kamen-rider",
+     "source": "anime",
+     "textless": true,
+     "title": "Tojima Wants to Be a Kamen Rider",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/xmw3Ozf1wFslq9F9H2SWaDIYlKT.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/xmw3Ozf1wFslq9F9H2SWaDIYlKT.jpg",
+     "description": "\"This party doesn't need an incompetent magician who can only use supportive magic. You're fired, Alec Ygret.\" Suddenly, Alec, a court magician who had joined the crown prince's party to help him conquer dungeons—was banished from the party.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4e61964d200c87068cd1e-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "id": "anime-the-banished-court-magician-aims-to-become-the-strongest-mhk4tb",
+     "logo": "https://image.tmdb.org/t/p/original/dOEclAJTtQk6GDeNByCoedvFgbr.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/qyNwokdqk3xDzkrreYduqYrGVge.jpg",
+     "posterClean": true,
+     "rating": "6.1",
+     "slug": "the-banished-court-magician-aims-to-become-the-strongest",
+     "source": "anime",
+     "textless": true,
+     "title": "The Banished Court Magician Aims to Become the Strongest",
+     "type": "show",
+     "year": "2025"
+    }
+   ],
+   "noTags": true,
+   "title": "Action anime"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Shin Min-a",
+      "Mitch Craig",
+      "Lee Jong-suk"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+     "description": "Empress Navier is shocked when her husband seeks divorce to wed his mistress. Refusing defeat, she allies with enigmatic Prince Heinrey, risking all to reclaim her throne and outshine her ex amid palace intrigue and romance.",
+     "duration": "55 min",
+     "episodes": 6,
+     "genres": [
+      "Drama",
+      "History",
+      "Romance"
+     ],
+     "id": "cinema-series-tt39325975",
+     "imdb": "tt39325975",
+     "logo": "https://image.tmdb.org/t/p/original/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+     "mediaType": "series",
+     "minutes": 55,
+     "newAt": 1793664000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/3wZoQkHGm789KJFfeU6HLLsTir9.jpg",
+     "posterClean": true,
+     "rating": "7.5",
+     "slug": "the-remarried-empress-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Remarried Empress",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Lee Jae-wook",
+      "Go Min-si",
+      "Kim Min-ha"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+     "description": "When a man in his 30s, Byeon Hyeok Jun, trying to escape the quagmire of debt and starts a super high-value but secretive part-time job leading to an unfolding of unexpected events.",
+     "duration": "38 min",
+     "episodes": 8,
+     "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+     ],
+     "id": "cinema-series-tt36458668",
+     "imdb": "tt36458668",
+     "logo": "https://image.tmdb.org/t/p/original/1wVxk49iyCidvtAv86qtMNj6sN8.png",
+     "mediaType": "series",
+     "minutes": 38,
+     "newAt": 1793318400,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/7T2OOuoxdW1sxfSjvg7ezueaFin.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "dead-end-job-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Dead-End Job",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Kim Ji-won",
+      "Lee Jeong-eun",
+      "Son Hyeon-ju"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+     "description": "A dark hero genius doctor appears in this place controlled by mafia wearing white gowns. A doctor who proves what a doctor is solely through his or her skills.",
+     "duration": "64 min",
+     "episodes": 12,
+     "genres": [
+      "Mystery",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt39328047",
+     "imdb": "tt39328047",
+     "logo": "https://image.tmdb.org/t/p/original/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+     "mediaType": "series",
+     "minutes": 64,
+     "newAt": 1794528000,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/s9WHSL8tBYeLppWorXx0YSUMKjr.jpg",
+     "posterClean": true,
+     "rating": "7.6",
+     "slug": "doctor-x-age-of-the-white-mafia-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Doctor X: Age of the White Mafia",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Kim Yoo-jung",
+      "Park Jin-young",
+      "Kim Hyun-joo"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+     "description": "Drama set during the Japanese colonial era, centring on a high-stakes undercover mission and an unexpected love story.",
+     "duration": "67 min",
+     "episodes": 11,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt39201866",
+     "imdb": "tt39201866",
+     "logo": "https://image.tmdb.org/t/p/original/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+     "mediaType": "series",
+     "minutes": 67,
+     "newAt": 1794096000,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/mZmAXmA08pKl3jVM9GGOc8QKI1P.jpg",
+     "posterClean": true,
+     "rating": "8.3",
+     "slug": "100-days-of-lies-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "100 Days of Lies",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Yim Si-wan",
+      "Seol In-ah",
+      "Kim Jung-hyun"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+     "description": "An office romantic comedy that follows the story of a conglomerate heir and his new secretary, a former special forces officer now working undercover.",
+     "duration": "63 min",
+     "episodes": 8,
+     "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance"
+     ],
+     "id": "cinema-series-tt45246384",
+     "imdb": "tt45246384",
+     "logo": "https://image.tmdb.org/t/p/original/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+     "mediaType": "series",
+     "minutes": 63,
+     "newAt": 1792368000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/yKGgRHl9kGUhC4fjTiCNADPDT7k.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "love-in-disguise-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Love in Disguise",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Lee Jung-jae",
+      "Wi Ha-joon",
+      "Jeon Young-soo"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+     "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. A tempting prize awaits, but with deadly high stakes.",
+     "duration": "59 min",
+     "episodes": 22,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt10919420",
+     "imdb": "tt10919420",
+     "logo": "https://image.tmdb.org/t/p/original/6YFWTX7fiGjWpsnJWLLV4RSbJWd.png",
+     "mediaType": "series",
+     "minutes": 59,
+     "poster": "https://image.tmdb.org/t/p/w780/A20e67rz2aWcrvXYUsB8Q63D1aK.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "squid-game-2021",
+     "source": "cinema",
+     "textless": true,
+     "title": "Squid Game",
+     "type": "show",
+     "year": "2021–2025"
+    }
+   ],
+   "title": "Korean dramas"
+  },
+  {
+   "items": [
+    {
+     "adult": false,
+     "age": null,
+     "cover": "https://image.tmdb.org/t/p/w1280/zWTtzr4cwGeVTR3ZOl6JItKkEDy.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/zWTtzr4cwGeVTR3ZOl6JItKkEDy.jpg",
+     "description": "\"This is the punishment for a fat, ugly girl like me falling in love with someone as beautiful as you...\" Yumeko had a mountain of complexes about herself.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4d3d464d200c87068a5e0-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "id": "anime-b64-cGx1cy1zaXplZC1taXNhZHZlbnR1cmVzLWluLWxvdmUhLWd6MGs3Zg",
+     "logo": "https://image.tmdb.org/t/p/original/cM9wh1unQx4zl37qUC3xIAEVjnB.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/vwRAhqnsigAnJxrc8hbyIcIu4SB.jpg",
+     "posterClean": true,
+     "rating": "5.9",
+     "slug": "plus-sized-misadventures-in-love",
+     "source": "anime",
+     "textless": true,
+     "title": "Plus-sized Misadventures in Love!",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": null,
+     "cover": "https://image.tmdb.org/t/p/w1280/xaToO3TYQcUgOZnY3hC1MGJAeR0.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/xaToO3TYQcUgOZnY3hC1MGJAeR0.jpg",
+     "description": "Alma, an autonomous self-learning robot with advanced combat capabilities, was created by two genius scientists, Enji Kamisato and Suzume Yobane, who developed Alma's artificial intelligence and robotics, respectively.",
+     "episodes": 11,
+     "fallback": "https://cdn.myanimelist.net/images/anime/1982/151278.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Romance",
+      "Sci-Fi"
+     ],
+     "id": "anime-b64-YWxtYS1jaGFuLXdhbnRzLXRvLWJlLWEtZmFtaWx5IS0xMHdveDY",
+     "logo": "https://image.tmdb.org/t/p/original/ewnJKF5jZvGXfIosUAeLXKFC9nD.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/c3YFY0C3gq3Hg0FPOrmF6pELNxl.jpg",
+     "posterClean": true,
+     "rating": "6.6",
+     "slug": "alma-chan-wants-to-be-a-family",
+     "source": "anime",
+     "textless": true,
+     "title": "Alma-chan Wants to Be a Family!",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": null,
+     "cover": "https://image.tmdb.org/t/p/w1280/teu2XeGsfakxV7Bajwv3cXRqvim.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/teu2XeGsfakxV7Bajwv3cXRqvim.jpg",
+     "description": "Wealthy, handsome, and successful, Arthur Louis Zetes is no stranger to the greed of people. Constantly doubting those around him, he has no faith in humanity; thus, he makes a request for the perfect maid—a robot maid.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4da6164d200c87068b49f-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "id": "anime-mechanical-marie-17rgvo",
+     "logo": "https://image.tmdb.org/t/p/original/jPPlyjNIj6nD1y2x8PmyTTInEHp.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/wdKyZTAWMvf39QXHq6GpWfeveUR.jpg",
+     "posterClean": true,
+     "rating": "6.3",
+     "slug": "mechanical-marie",
+     "source": "anime",
+     "textless": true,
+     "title": "Mechanical Marie",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/wlI6dCqDjvUevo7sD3OAHMPY9W5.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/wlI6dCqDjvUevo7sD3OAHMPY9W5.jpg",
+     "description": "If a girl teases you, that means she likes you! Unfortunately, Akiteru knows from experience that isn't the case. Because every girl he interacts with shows him nothing but scorn, and he's not scored a single date from it!",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4e23164d200c87068c80d-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "id": "anime-b64-bXktZnJpZW5kJ3MtbGl0dGxlLXNpc3Rlci1oYXMtaXQtaW4tZm9yLW1lIS1zc2R0aHo",
+     "logo": "https://image.tmdb.org/t/p/original/eC6Ev3IVavMwB4ZAg6nvG9NjrkN.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/f3wROigsZmGuf5ctn7ie38BeO5c.jpg",
+     "posterClean": true,
+     "rating": "6.1",
+     "slug": "my-friend-s-little-sister-has-it-in-for-me",
+     "source": "anime",
+     "textless": true,
+     "title": "My Friend's Little Sister Has It In for Me!",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/iPHdO30TG4XRourcAVwGXjbwi87.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/iPHdO30TG4XRourcAVwGXjbwi87.jpg",
+     "description": "With a smirk, Oota disregards his single-digit test scores and searches for a new source of amusement. He is soon captivated by his classmate Kashiwada, a mysterious student who consistently wears a blank face.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e4e73764d200c87068ce65-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "id": "anime-inexpressive-kashiwada-and-expressive-oota-tc9xwa",
+     "logo": "https://image.tmdb.org/t/p/original/zi3hGwLAE4XPMa5nSFiou05cI12.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/xSmb66teCiL1c0P7sEGY7844Dd1.jpg",
+     "posterClean": true,
+     "rating": "6.7",
+     "slug": "inexpressive-kashiwada-and-expressive-oota",
+     "source": "anime",
+     "textless": true,
+     "title": "Inexpressive Kashiwada and Expressive Oota",
+     "type": "show",
+     "year": "2025"
+    },
+    {
+     "adult": false,
+     "age": "PG-13 - Teens 13 or older",
+     "cover": "https://image.tmdb.org/t/p/w1280/cG0aOH5hyqA81VfXMgMrkHB8BCe.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/cG0aOH5hyqA81VfXMgMrkHB8BCe.jpg",
+     "description": "Samara \"Sam\" Young is a developer in Los Angeles who's about to achieve her dreams with her first video game, Ruminate. That is, until a popular streamer gives the game a scathing review.",
+     "episodes": 12,
+     "fallback": "https://animehot.cc/storage/media/2026/09/68e786a741a45d67b638acf9-poster.jpg",
+     "format": "TV",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "id": "anime-b64-bGV0J3MtcGxheS1sMnl0cHg",
+     "logo": "https://image.tmdb.org/t/p/original/ci6hBgh9iVAXYPmdDh8GOrYLCE9.png",
+     "mature": false,
+     "poster": "https://image.tmdb.org/t/p/w780/1EHFmeW0cYM0bPw8oEzBe9yk8F0.jpg",
+     "posterClean": true,
+     "rating": "6.2",
+     "slug": "let-s-play",
+     "source": "anime",
+     "textless": true,
+     "title": "Let's Play",
+     "type": "show",
+     "year": "2025"
+    }
+   ],
+   "noTags": true,
+   "title": "Romance anime"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Genden Phuntsok",
+      "Tom Hiddleston",
+      "Willem Dafoe"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
+     "description": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
+     "duration": "126 min",
+     "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt6262770",
+     "imdb": "tt6262770",
+     "logo": "https://image.tmdb.org/t/p/original/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+     "mediaType": "movie",
+     "minutes": 126,
+     "poster": "https://image.tmdb.org/t/p/w780/spls7qQGsoSwfaXSV30bFimbjmL.jpg",
+     "posterClean": true,
+     "rating": "7.7",
+     "slug": "tenzing-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Tenzing",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Giancarlo Esposito",
+      "Mahershala Ali",
+      "John Cho"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/uU3fZrvMKeU34rdSNLb3dCiIQ5z.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/uU3fZrvMKeU34rdSNLb3dCiIQ5z.jpg",
+     "description": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel.",
+     "duration": "112 min",
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt35856037",
+     "imdb": "tt35856037",
+     "logo": "https://image.tmdb.org/t/p/original/vTWwAyfrTYFLHDD4vF94JzBBBpB.png",
+     "mediaType": "movie",
+     "minutes": 112,
+     "poster": "https://image.tmdb.org/t/p/w780/m7DiEFktqrT2K41k5bonlisMzyB.jpg",
+     "posterClean": true,
+     "rating": "6.7",
+     "slug": "your-mother-your-mother-your-mother-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Your Mother Your Mother Your Mother",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Lili Reinhart",
+      "Tom Bateman",
+      "Rachel Marsh"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+     "description": "After an impulsive kiss, two scientists end up in a fake relationship, testing their theories about love and each other.",
+     "duration": "112 min",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "id": "cinema-movie-tt22526100",
+     "imdb": "tt22526100",
+     "logo": "https://image.tmdb.org/t/p/original/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+     "mediaType": "movie",
+     "minutes": 112,
+     "poster": "https://image.tmdb.org/t/p/w780/9CBfFTxQ8EZG6O0h0ck9gSd9t10.jpg",
+     "posterClean": true,
+     "rating": "6.8",
+     "slug": "the-love-hypothesis-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Love Hypothesis",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Robert Pattinson",
+      "Merritt Wever",
+      "Skyler Gisondo"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+     "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+     "duration": "110 min",
+     "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt34206385",
+     "imdb": "tt34206385",
+     "logo": "https://image.tmdb.org/t/p/original/4cE5EHq7ifeBmsINDtvdwCKecNv.png",
+     "mediaType": "movie",
+     "minutes": 110,
+     "newAt": 1790121600,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/q6zV9EG2aOCTW8aiZBzXLIiw0Yz.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "primetime-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Primetime",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Jeon Do-yeon",
+      "Sul Kyung-gu",
+      "Zo In-sung"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/9RKhjTv0DQJ1UtmDS7GkDYoKQHH.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/9RKhjTv0DQJ1UtmDS7GkDYoKQHH.jpg",
+     "description": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+     "duration": "165 min",
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "id": "cinema-movie-tt37803364",
+     "imdb": "tt37803364",
+     "logo": "https://image.tmdb.org/t/p/original/5jdF6iuVDkZaRObczlKvR5KVd4n.png",
+     "mediaType": "movie",
+     "minutes": 165,
+     "poster": "https://image.tmdb.org/t/p/w780/8avB50q5OeZGxbiWNl4HTIxyQvo.jpg",
+     "posterClean": true,
+     "rating": "7.7",
+     "slug": "possible-love-2026-2",
+     "source": "cinema",
+     "textless": true,
+     "title": "Possible Love",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Daisy Edgar-Jones",
+      "Esmé Creed-Miles",
+      "Caitríona Balfe"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+     "description": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles.",
+     "duration": "132 min",
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "id": "cinema-movie-tt13609648",
+     "imdb": "tt13609648",
+     "logo": "https://image.tmdb.org/t/p/original/eVS7HIjPjPHeCmTfkQTNQFCqbAg.png",
+     "mediaType": "movie",
+     "minutes": 132,
+     "poster": "https://image.tmdb.org/t/p/w780/aISbkfH8LYhWeCTltSIiofYy5MY.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "sense-and-sensibility-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Sense and Sensibility",
+     "type": "movie",
+     "year": "2026"
+    }
+   ],
+   "title": "Critically acclaimed movies"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Brad Pitt",
+      "J.K. Simmons",
+      "Anna Lambe"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+     "description": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+     "duration": "101 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt7526136",
+     "imdb": "tt7526136",
+     "logo": "https://image.tmdb.org/t/p/original/zJ3jZa2gJzEQ8KWRxMYRox3qr2O.png",
+     "mediaType": "movie",
+     "minutes": 101,
+     "newAt": 1789776000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "heart-of-the-beast-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Heart of the Beast",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Keira Knightley",
+      "Ben Whishaw",
+      "Charlotte Rice-Foley"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+     "description": "After her lover is murdered by members of London's underworld, a spy - who is publicly the wife of the British Defence Secretary - is protected by an old friend from their agency.",
+     "duration": "53 min",
+     "episodes": 12,
+     "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+     ],
+     "id": "cinema-series-tt27995113",
+     "imdb": "tt27995113",
+     "logo": "https://image.tmdb.org/t/p/original/gDhD19ZXs1JzyWT642h5t365pLz.png",
+     "mediaType": "series",
+     "minutes": 53,
+     "newAt": 1793836800,
+     "newKind": "season",
+     "poster": "https://image.tmdb.org/t/p/w780/xzX1tPr8W9I9S1dhunTsH4XlSN1.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "black-doves-2024",
+     "source": "cinema",
+     "textless": true,
+     "title": "Black Doves",
+     "type": "show",
+     "year": "2024–"
+    },
+    {
+     "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Mark Ruffalo"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+     "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+     "duration": "145 min",
+     "genres": [
+      "Action",
+      "Adventure"
+     ],
+     "id": "cinema-movie-tt22084616",
+     "imdb": "tt22084616",
+     "logo": "https://image.tmdb.org/t/p/original/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+     "mediaType": "movie",
+     "minutes": 145,
+     "poster": "https://image.tmdb.org/t/p/w780/yxOxOBxspl3NgC676W62G02g1cR.jpg",
+     "posterClean": true,
+     "rating": "8.0",
+     "slug": "spider-man-brand-new-day-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Spider-Man: Brand New Day",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Paul Bettany",
+      "James Spader",
+      "Ruaridh Mollica"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
+     "duration": "54 min",
+     "episodes": 8,
+     "genres": [
+      "Action"
+     ],
+     "id": "cinema-series-tt23112594",
+     "imdb": "tt23112594",
+     "logo": "https://image.tmdb.org/t/p/original/1SEW33fQb4RfXQ6hWeuo7j2d5sR.png",
+     "mediaType": "series",
+     "minutes": 54,
+     "newAt": 1794268800,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/molehSx8FQUupIDxxYLDse5DAVV.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "visionquest-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "VisionQuest",
+     "type": "show",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Minami Hamabe",
+      "Ryûnosuke Kamiki",
+      "Sakura Andô"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+     "description": "A kamikaze pilot plagued by survivor's guilt seeks redemption when a giant monster he failed to kill is transformed by radiation from atomic bomb tests and lays siege to post-war Japan.",
+     "duration": "125 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt23289160",
+     "imdb": "tt23289160",
+     "logo": "https://image.tmdb.org/t/p/original/7LOJWXqgsHkkvouNAl3jHwheu5Q.png",
+     "mediaType": "movie",
+     "minutes": 125,
+     "poster": "https://image.tmdb.org/t/p/w780/s8iyQuzt3sDp6Ts9tEktHezvaZk.jpg",
+     "posterClean": true,
+     "rating": "7.6",
+     "slug": "godzilla-minus-one-2023",
+     "source": "cinema",
+     "textless": true,
+     "title": "Godzilla Minus One",
+     "type": "movie",
+     "year": "2023"
+    },
+    {
+     "cast": [
+      "Chris Pratt",
+      "Constance Wu",
+      "Jared Shaw"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+     "description": "A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+     "duration": "58 min",
+     "episodes": 16,
+     "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt11743610",
+     "imdb": "tt11743610",
+     "logo": "https://image.tmdb.org/t/p/original/29glkftEea1IEUG8WcNq017mCAr.png",
+     "mediaType": "series",
+     "minutes": 58,
+     "poster": "https://image.tmdb.org/t/p/w780/yzFec3f0720rWW2Wr3SBC8rl8tl.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "the-terminal-list-2022",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Terminal List",
+     "type": "show",
+     "year": "2022–"
+    }
+   ],
+   "noTags": true,
+   "title": "Action"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Terrence Howard"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+     "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+     "duration": "126 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt0371746",
+     "imdb": "tt0371746",
+     "logo": "https://image.tmdb.org/t/p/original/f1EpI3C6wd1iv7dCxNi3vU5DAX7.png",
+     "mediaType": "movie",
+     "minutes": 126,
+     "poster": "https://image.tmdb.org/t/p/w780/jFIAI6kSPHLo4qbyjDW7igioI6I.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "iron-man-2008",
+     "source": "cinema",
+     "textless": true,
+     "title": "Iron Man",
+     "type": "movie",
+     "year": "2008"
+    },
+    {
+     "cast": [
+      "Edward Norton",
+      "Liv Tyler",
+      "Tim Roth"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+     "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+     "duration": "114 min",
+     "genres": [
+      "Action",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt0800080",
+     "imdb": "tt0800080",
+     "logo": "https://image.tmdb.org/t/p/original/l0UawWPTpB6uFolo7xqhQdloo8H.png",
+     "mediaType": "movie",
+     "minutes": 114,
+     "poster": "https://image.tmdb.org/t/p/w780/ebK5g7FhJRuGMANsoDGOTXeZGrx.jpg",
+     "posterClean": true,
+     "rating": "6.6",
+     "slug": "the-incredible-hulk-2008",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Incredible Hulk",
+     "type": "movie",
+     "year": "2008"
+    },
+    {
+     "cast": [
+      "Robert Downey Jr.",
+      "Mickey Rourke",
+      "Gwyneth Paltrow"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/jesRqfL9v6HNnowe795xjmuKUXl.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/jesRqfL9v6HNnowe795xjmuKUXl.jpg",
+     "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful madman with ties to his father's legacy.",
+     "duration": "124 min",
+     "genres": [
+      "Action",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt1228705",
+     "imdb": "tt1228705",
+     "logo": "https://image.tmdb.org/t/p/original/e7jxjQ7zFnCaTSMuZGlMXmmrmA1.png",
+     "mediaType": "movie",
+     "minutes": 124,
+     "poster": "https://image.tmdb.org/t/p/w780/vioYkmuRlnWr4dZQSblkGSIlzS9.jpg",
+     "posterClean": true,
+     "rating": "6.9",
+     "slug": "iron-man-2-2010",
+     "source": "cinema",
+     "textless": true,
+     "title": "Iron Man 2",
+     "type": "movie",
+     "year": "2010"
+    },
+    {
+     "cast": [
+      "Chris Hemsworth",
+      "Anthony Hopkins",
+      "Natalie Portman"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/jWAJlgICJbn2kyohrokteRoD3cZ.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/jWAJlgICJbn2kyohrokteRoD3cZ.jpg",
+     "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+     "duration": "115 min",
+     "genres": [
+      "Action",
+      "Fantasy"
+     ],
+     "id": "cinema-movie-tt0800369",
+     "imdb": "tt0800369",
+     "logo": "https://image.tmdb.org/t/p/original/mhWN03HN4j9nSkomzDKZyl6xVuq.png",
+     "mediaType": "movie",
+     "minutes": 115,
+     "poster": "https://image.tmdb.org/t/p/w780/kOaKa9doAJanZexIxqzbGkWQ52C.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "thor-2011",
+     "source": "cinema",
+     "textless": true,
+     "title": "Thor",
+     "type": "movie",
+     "year": "2011"
+    },
+    {
+     "cast": [
+      "Chris Evans",
+      "Hugo Weaving",
+      "Samuel L. Jackson"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg",
+     "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organiza...",
+     "duration": "124 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt0458339",
+     "imdb": "tt0458339",
+     "logo": "https://image.tmdb.org/t/p/original/qW2oJdCtyW1AdKTGkz7sxsrb7is.png",
+     "mediaType": "movie",
+     "minutes": 124,
+     "poster": "https://image.tmdb.org/t/p/w780/jB4WRGpUVLzTPwYZf3foY5GQnJr.jpg",
+     "posterClean": true,
+     "rating": "6.9",
+     "slug": "captain-america-the-first-avenger-2011",
+     "source": "cinema",
+     "textless": true,
+     "title": "Captain America: The First Avenger",
+     "type": "movie",
+     "year": "2011"
+    },
+    {
+     "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
+     "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+     "duration": "143 min",
+     "genres": [
+      "Action",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt0848228",
+     "imdb": "tt0848228",
+     "logo": "https://image.tmdb.org/t/p/original/2VLCNzMOGayRGdiSGyaOD0MzA3Y.png",
+     "mediaType": "movie",
+     "minutes": 143,
+     "poster": "https://image.tmdb.org/t/p/w780/6m9XIEXnJJ0rRPf9grycmAvvkX1.jpg",
+     "posterClean": true,
+     "rating": "8.0",
+     "slug": "the-avengers-2012",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Avengers",
+     "type": "movie",
+     "year": "2012"
+    }
+   ],
+   "title": "Marvel"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Mary Steenburgen",
+      "Jennifer Tilly",
+      "Dennis Quaid"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/6OOiqbY4Di0I6dNw0fyOBIxzK5k.jpg",
+     "description": "A sage basset hound narrates how his family faces turmoil when Mrs. Goss falls into an induced coma, and a new Corgi pup helps unite the scattered household during their mother's absence.",
+     "duration": "102 min",
+     "genres": [
+      "Drama"
+     ],
+     "id": "cinema-movie-tt38515310",
+     "imdb": "tt38515310",
+     "logo": "https://image.tmdb.org/t/p/original/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+     "mediaType": "movie",
+     "minutes": 102,
+     "newAt": 1793750400,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/qxbtN0FKqn22AHAIgqSOOVxGUB9.jpg",
+     "posterClean": true,
+     "rating": "6.4",
+     "slug": "a-dog-s-perfect-christmas-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "A Dog's Perfect Christmas",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Adam Brody",
+      "Timothy Simons",
+      "Kristen Bell"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/acqB9NgQRxkQbCRZRnoARSJcPst.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/acqB9NgQRxkQbCRZRnoARSJcPst.jpg",
+     "description": "An agnostic sex podcaster and a newly single rabbi fall in love; discovering if their relationship can survive their wildly different lives and meddling families.",
+     "duration": "27 min",
+     "episodes": 30,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "id": "cinema-series-tt26933824",
+     "imdb": "tt26933824",
+     "logo": "https://image.tmdb.org/t/p/original/yoIDGAhWvPFxPknG3pgQSdvnVAr.png",
+     "mediaType": "series",
+     "minutes": 27,
+     "poster": "https://image.tmdb.org/t/p/w780/43vUlUQJ7OCfcFV1fMJhddC0TPN.jpg",
+     "posterClean": true,
+     "rating": "7.7",
+     "slug": "nobody-wants-this-2024",
+     "source": "cinema",
+     "textless": true,
+     "title": "Nobody Wants This",
+     "type": "show",
+     "year": "2024–"
+    },
+    {
+     "cast": [
+      "Seth Rogen",
+      "Olivia Wilde",
+      "Penélope Cruz"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+     "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+     "duration": "107 min",
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "id": "cinema-movie-tt14173636",
+     "imdb": "tt14173636",
+     "logo": "https://image.tmdb.org/t/p/original/6Uut2l0sK1zhvlrx2eq7oNZ13p2.png",
+     "mediaType": "movie",
+     "minutes": 107,
+     "poster": "https://image.tmdb.org/t/p/w780/k9qMT4XeMrN9ypDlYdKhoFRokGT.jpg",
+     "posterClean": true,
+     "rating": "7.5",
+     "slug": "the-invite-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Invite",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Sylvester Stallone",
+      "Andrea Savage",
+      "Martin Starr"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+     "description": "After being released from prison after 25 years, New York Mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma.",
+     "duration": "40 min",
+     "episodes": 34,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt16358384",
+     "imdb": "tt16358384",
+     "logo": "https://image.tmdb.org/t/p/original/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
+     "mediaType": "series",
+     "minutes": 40,
+     "newAt": 1794528000,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "tulsa-king-2022",
+     "source": "cinema",
+     "textless": true,
+     "title": "Tulsa King",
+     "type": "show",
+     "year": "2022–"
+    },
+    {
+     "cast": [
+      "Ryan Gosling",
+      "Sandra Hüller",
+      "James Ortiz"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+     "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+     "duration": "157 min",
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt12042730",
+     "imdb": "tt12042730",
+     "logo": "https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+     "mediaType": "movie",
+     "minutes": 157,
+     "poster": "https://image.tmdb.org/t/p/w780/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg",
+     "posterClean": true,
+     "rating": "8.2",
+     "slug": "project-hail-mary-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Project Hail Mary",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Jason Sudeikis",
+      "Hannah Waddingham",
+      "Jeremy Swift"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+     "description": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
+     "duration": "43 min",
+     "episodes": 44,
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+     ],
+     "id": "cinema-series-tt10986410",
+     "imdb": "tt10986410",
+     "logo": "https://image.tmdb.org/t/p/original/iNudegFbTBAGBB529k7wGVivqE4.png",
+     "mediaType": "series",
+     "minutes": 43,
+     "poster": "https://image.tmdb.org/t/p/w780/9uT4dT2k5lTd41kZEVmFCSIFQw7.jpg",
+     "posterClean": true,
+     "rating": "8.7",
+     "slug": "ted-lasso-2020",
+     "source": "cinema",
+     "textless": true,
+     "title": "Ted Lasso",
+     "type": "show",
+     "year": "2020–"
+    }
+   ],
+   "noTags": true,
+   "title": "Comedy"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Sylvester Stallone",
+      "Andrea Savage",
+      "Martin Starr"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+     "description": "After being released from prison after 25 years, New York Mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma.",
+     "duration": "40 min",
+     "episodes": 34,
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt16358384",
+     "imdb": "tt16358384",
+     "logo": "https://image.tmdb.org/t/p/original/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
+     "mediaType": "series",
+     "minutes": 40,
+     "newAt": 1794528000,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/yxWDzf7cFQIL99m0o8iu4rrzzWr.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "tulsa-king-2022",
+     "source": "cinema",
+     "textless": true,
+     "title": "Tulsa King",
+     "type": "show",
+     "year": "2022–"
+    },
+    {
+     "cast": [
+      "Tom Hardy",
+      "Pierce Brosnan",
+      "Paddy Considine"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+     "description": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces col...",
+     "duration": "47 min",
+     "episodes": 19,
+     "genres": [
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt31510819",
+     "imdb": "tt31510819",
+     "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+     "mediaType": "series",
+     "minutes": 47,
+     "newAt": 1794528000,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+     "posterClean": true,
+     "rating": "8.3",
+     "slug": "mobland-2025",
+     "source": "cinema",
+     "textless": true,
+     "title": "MobLand",
+     "type": "show",
+     "year": "2025–"
+    },
+    {
+     "cast": [
+      "Liev Schreiber",
+      "Zazie Beetz",
+      "Stephen Graham"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+     "description": "Ex-soldier Jonah Lynn leaves Philadelphia for a quiet life. When serial killer Jurek Walter threatens his new home and family, Jonah must protect them, even as he sends his FBI agent daughter Saga to track the killer's last victim.",
+     "duration": "52 min",
+     "episodes": 4,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt26598805",
+     "imdb": "tt26598805",
+     "logo": "https://image.tmdb.org/t/p/original/nB5lOt3DlBdgJVziuOFCIGAkzjF.png",
+     "mediaType": "series",
+     "minutes": 52,
+     "newAt": 1793232000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
+     "posterClean": true,
+     "rating": "7.4",
+     "slug": "nocturne-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Nocturne",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Ella Stiller",
+      "Nik Dodani",
+      "Mike Colter"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/bNSNpxgOkadPlqeQZtuEarDlNLX.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/bNSNpxgOkadPlqeQZtuEarDlNLX.jpg",
+     "description": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
+     "duration": "43 min",
+     "episodes": 7,
+     "genres": [
+      "Drama"
+     ],
+     "id": "cinema-series-tt33270224",
+     "imdb": "tt33270224",
+     "logo": "https://image.tmdb.org/t/p/original/rWpDBJIePBvmMD2GQk0BHRw8xgr.png",
+     "mediaType": "series",
+     "minutes": 43,
+     "poster": "https://image.tmdb.org/t/p/w780/rv6dfhXIq5lLK4cQa8FHuUg2Ahh.jpg",
+     "posterClean": true,
+     "rating": "7.9",
+     "slug": "cupertino-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Cupertino",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Ellen Pompeo",
+      "Chandra Wilson",
+      "James Pickens Jr."
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+     "description": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+     "duration": "43 min",
+     "episodes": 471,
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "id": "cinema-series-tt0413573",
+     "imdb": "tt0413573",
+     "logo": "https://image.tmdb.org/t/p/original/keAZqhg9lmOHEhmG5njqIsuxf0f.png",
+     "mediaType": "series",
+     "minutes": 43,
+     "newAt": 1794441600,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/90Yz9SRaBtKy5aucUG7Uvc9hMOZ.jpg",
+     "posterClean": true,
+     "rating": "7.6",
+     "slug": "grey-s-anatomy-2005",
+     "source": "cinema",
+     "textless": true,
+     "title": "Grey's Anatomy",
+     "type": "show",
+     "year": "2005–"
+    },
+    {
+     "cast": [
+      "Carrie Preston",
+      "Wendell Pierce",
+      "Carra Patterson"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/t7kDn4X7JpRnBlKN0vPVy5RXZlA.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/t7kDn4X7JpRnBlKN0vPVy5RXZlA.jpg",
+     "description": "Astute but unconventional attorney Elsbeth Tascioni utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD.",
+     "duration": "43 min",
+     "episodes": 55,
+     "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt26591110",
+     "imdb": "tt26591110",
+     "logo": "https://image.tmdb.org/t/p/original/cAG0bwJVYBbJwl0zyVZGI4M3Zcj.png",
+     "mediaType": "series",
+     "minutes": 43,
+     "poster": "https://image.tmdb.org/t/p/w780/y55KxaK18vwDobn3t4A3XIGfTps.jpg",
+     "posterClean": true,
+     "rating": "7.5",
+     "slug": "elsbeth-2024",
+     "source": "cinema",
+     "textless": true,
+     "title": "Elsbeth",
+     "type": "show",
+     "year": "2024–"
+    }
+   ],
+   "title": "Critically acclaimed shows"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Robert Pattinson",
+      "Merritt Wever",
+      "Skyler Gisondo"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+     "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+     "duration": "110 min",
+     "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt34206385",
+     "imdb": "tt34206385",
+     "logo": "https://image.tmdb.org/t/p/original/4cE5EHq7ifeBmsINDtvdwCKecNv.png",
+     "mediaType": "movie",
+     "minutes": 110,
+     "newAt": 1790121600,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/q6zV9EG2aOCTW8aiZBzXLIiw0Yz.jpg",
+     "posterClean": true,
+     "rating": "7.0",
+     "slug": "primetime-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Primetime",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Tom Hardy",
+      "Pierce Brosnan",
+      "Paddy Considine"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+     "description": "Power is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces col...",
+     "duration": "47 min",
+     "episodes": 19,
+     "genres": [
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-series-tt31510819",
+     "imdb": "tt31510819",
+     "logo": "https://image.tmdb.org/t/p/original/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+     "mediaType": "series",
+     "minutes": 47,
+     "newAt": 1794528000,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/c64EWQJHcSXe0Xfk3lqPWz23UJP.jpg",
+     "posterClean": true,
+     "rating": "8.3",
+     "slug": "mobland-2025",
+     "source": "cinema",
+     "textless": true,
+     "title": "MobLand",
+     "type": "show",
+     "year": "2025–"
+    },
+    {
+     "cast": [
+      "Brad Pitt",
+      "J.K. Simmons",
+      "Anna Lambe"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+     "description": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+     "duration": "101 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt7526136",
+     "imdb": "tt7526136",
+     "logo": "https://image.tmdb.org/t/p/original/zJ3jZa2gJzEQ8KWRxMYRox3qr2O.png",
+     "mediaType": "movie",
+     "minutes": 101,
+     "newAt": 1789776000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/4RLhArdnymkf2WpQ5R2RxbUC21e.jpg",
+     "posterClean": true,
+     "rating": "7.2",
+     "slug": "heart-of-the-beast-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Heart of the Beast",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Anne Hathaway",
+      "Dakota Johnson",
+      "Josh Hartnett"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+     "description": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to...",
+     "duration": "117 min",
+     "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+     ],
+     "id": "cinema-movie-tt32261958",
+     "imdb": "tt32261958",
+     "logo": "https://image.tmdb.org/t/p/original/fG2vYehyvAyka220NGDUGeuabru.png",
+     "mediaType": "movie",
+     "minutes": 117,
+     "newAt": 1790726400,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/iT72Y5FgZxU8hEiwGP9Wb2xLtm9.jpg",
+     "posterClean": true,
+     "rating": "6.0",
+     "slug": "verity-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Verity",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Liev Schreiber",
+      "Zazie Beetz",
+      "Stephen Graham"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+     "description": "Ex-soldier Jonah Lynn leaves Philadelphia for a quiet life. When serial killer Jurek Walter threatens his new home and family, Jonah must protect them, even as he sends his FBI agent daughter Saga to track the killer's last victim.",
+     "duration": "52 min",
+     "episodes": 4,
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt26598805",
+     "imdb": "tt26598805",
+     "logo": "https://image.tmdb.org/t/p/original/nB5lOt3DlBdgJVziuOFCIGAkzjF.png",
+     "mediaType": "series",
+     "minutes": 52,
+     "newAt": 1793232000,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/yllwzRiqYnUXSV4TwvQz0MVstGL.jpg",
+     "posterClean": true,
+     "rating": "7.4",
+     "slug": "nocturne-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Nocturne",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Giancarlo Esposito",
+      "Mahershala Ali",
+      "John Cho"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/uU3fZrvMKeU34rdSNLb3dCiIQ5z.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/uU3fZrvMKeU34rdSNLb3dCiIQ5z.jpg",
+     "description": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel.",
+     "duration": "112 min",
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt35856037",
+     "imdb": "tt35856037",
+     "logo": "https://image.tmdb.org/t/p/original/vTWwAyfrTYFLHDD4vF94JzBBBpB.png",
+     "mediaType": "movie",
+     "minutes": 112,
+     "poster": "https://image.tmdb.org/t/p/w780/m7DiEFktqrT2K41k5bonlisMzyB.jpg",
+     "posterClean": true,
+     "rating": "6.7",
+     "slug": "your-mother-your-mother-your-mother-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Your Mother Your Mother Your Mother",
+     "type": "movie",
+     "year": "2026"
+    }
+   ],
+   "noTags": true,
+   "title": "Crime & thriller"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Austin Abrams",
+      "Paul Walter Hauser",
+      "Zach Cherry"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+     "description": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive.",
+     "duration": "94 min",
+     "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt35538033",
+     "imdb": "tt35538033",
+     "logo": "https://image.tmdb.org/t/p/original/vMIJP6pOvzh6vZQ8SNSM4q4LlVA.png",
+     "mediaType": "movie",
+     "minutes": 94,
+     "newAt": 1789516800,
+     "newKind": "added",
+     "poster": "https://image.tmdb.org/t/p/w780/9YzsMLLSpCbAiDiEXlwkZr3m5Ri.jpg",
+     "posterClean": true,
+     "rating": "7.4",
+     "slug": "resident-evil-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Resident Evil",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Summer H. Howell",
+      "Samantha Sloyan",
+      "Siena Agudong"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+     "description": "After her father's sudden death, sheltered teenager Carrie White, raised by her domineering mother, enters public high school, where she faces a viral bullying scandal and the awakening of mysterious telekinetic powers.",
+     "duration": "52 min",
+     "episodes": 8,
+     "genres": [
+      "Drama",
+      "Horror"
+     ],
+     "id": "cinema-series-tt11540908",
+     "imdb": "tt11540908",
+     "logo": "https://image.tmdb.org/t/p/original/zfgGWolG1xWy7VBEUKylRAIhlXY.png",
+     "mediaType": "series",
+     "minutes": 52,
+     "newAt": 1791331200,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/7CDmD9H4FRyTngJI717TrKIppb0.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "carrie-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Carrie",
+     "type": "show",
+     "year": "2026–"
+    },
+    {
+     "cast": [
+      "Donald Pleasence",
+      "Jamie Lee Curtis",
+      "Tony Moran"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/v0JAa6ixTeQZi4s5S0yVYkrtBCg.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/v0JAa6ixTeQZi4s5S0yVYkrtBCg.jpg",
+     "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois, to kill again.",
+     "duration": "91 min",
+     "genres": [
+      "Horror",
+      "Thriller"
+     ],
+     "id": "cinema-movie-tt0077651",
+     "imdb": "tt0077651",
+     "logo": "https://image.tmdb.org/t/p/original/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
+     "mediaType": "movie",
+     "minutes": 91,
+     "poster": "https://image.tmdb.org/t/p/w780/d62YzdOrC4LfObyb2q1qGVxUvID.jpg",
+     "posterClean": true,
+     "rating": "7.7",
+     "slug": "halloween-1978",
+     "source": "cinema",
+     "textless": true,
+     "title": "Halloween",
+     "type": "movie",
+     "year": "1978"
+    },
+    {
+     "cast": [
+      "Harold Perrineau",
+      "Catalina Sandino Moreno",
+      "David Alpay"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+     "description": "A town with a hidden secret experiences strange occurrences that intensify at night. Mysterious forces disrupt everyday routines as residents try to preserve stability and community while attempting to comprehend their surroundings.",
+     "duration": "51 min",
+     "episodes": 41,
+     "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+     ],
+     "id": "cinema-series-tt9813792",
+     "imdb": "tt9813792",
+     "logo": "https://image.tmdb.org/t/p/original/mvqhRHAzZKCVr24OIfK5LHJDSwU.png",
+     "mediaType": "series",
+     "minutes": 51,
+     "poster": "https://image.tmdb.org/t/p/w780/mPFwg9BjfgSFcINA0U7i1lpQAIS.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "from-2022",
+     "source": "cinema",
+     "textless": true,
+     "title": "From",
+     "type": "show",
+     "year": "2022–"
+    },
+    {
+     "cast": [
+      "Michael Johnston",
+      "Inde Navarrette",
+      "Cooper Tomlinson"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+     "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+     "duration": "109 min",
+     "genres": [
+      "Horror",
+      "Thriller"
+     ],
+     "id": "cinema-movie-tt37287335",
+     "imdb": "tt37287335",
+     "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+     "mediaType": "movie",
+     "minutes": 109,
+     "poster": "https://image.tmdb.org/t/p/w780/o5VincY0eEAq4GHHiKcWjSuNPCm.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "obsession-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Obsession",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Linda Cardellini",
+      "Gwendolyn Sundstrom",
+      "Danielle Kotch"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+     "description": "Prequel series to Friday the 13th, follows a doomed small town where camp counselors come to die.",
+     "duration": "50 min",
+     "episodes": 8,
+     "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt23148340",
+     "imdb": "tt23148340",
+     "logo": "https://image.tmdb.org/t/p/original/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
+     "mediaType": "series",
+     "minutes": 50,
+     "newAt": 1792022400,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/v6mpWaGJaz7HAOEBnw2VYuFmYGG.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "crystal-lake-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Crystal Lake",
+     "type": "show",
+     "year": "2026–"
+    }
+   ],
+   "noTags": true,
+   "title": "Horror"
+  },
+  {
+   "items": [
+    {
+     "cast": [
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Mark Duplass"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/QNE9Ihuas4duMHJYGQgAcuRtXz.jpg",
+     "description": "Clark, an angry architect, chases the source of impossible power failures when a glowing gap opens in his basement, but the yellow maze beyond it threatens his sanity, his friends, and Mary.",
+     "duration": "111 min",
+     "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "id": "cinema-movie-tt26657236",
+     "imdb": "tt26657236",
+     "logo": "https://image.tmdb.org/t/p/original/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
+     "mediaType": "movie",
+     "minutes": 111,
+     "poster": "https://image.tmdb.org/t/p/w780/7NVnp7XHiW99nYLqEH5A63uPSJN.jpg",
+     "posterClean": true,
+     "rating": "6.7",
+     "slug": "backrooms-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Backrooms",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Paul Bettany",
+      "James Spader",
+      "Ruaridh Mollica"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+     "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
+     "duration": "54 min",
+     "episodes": 8,
+     "genres": [
+      "Action"
+     ],
+     "id": "cinema-series-tt23112594",
+     "imdb": "tt23112594",
+     "logo": "https://image.tmdb.org/t/p/original/1SEW33fQb4RfXQ6hWeuo7j2d5sR.png",
+     "mediaType": "series",
+     "minutes": 54,
+     "newAt": 1794268800,
+     "newKind": "episode",
+     "poster": "https://image.tmdb.org/t/p/w780/molehSx8FQUupIDxxYLDse5DAVV.jpg",
+     "posterClean": true,
+     "rating": "7.8",
+     "slug": "visionquest-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "VisionQuest",
+     "type": "show",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Jacob Elordi",
+      "Margaret Qualley",
+      "Josh Brolin"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+     "description": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife.",
+     "duration": "119 min",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "id": "cinema-movie-tt21285562",
+     "imdb": "tt21285562",
+     "logo": "https://image.tmdb.org/t/p/original/mk9IHaDuNrhF9hf5LNYFLsyrfUb.png",
+     "mediaType": "movie",
+     "minutes": 119,
+     "poster": "https://image.tmdb.org/t/p/w780/o3TY0dc236CM7eMwAsyghcXIzBL.jpg",
+     "posterClean": true,
+     "rating": "6.5",
+     "slug": "the-dog-stars-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "The Dog Stars",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Joel Edgerton",
+      "Jennifer Connelly",
+      "Alice Braga"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+     "description": "A man is abducted into an alternate version of his life. Amid the mind-bending landscape of lives he could've lived, he embarks on a harrowing journey to get back to his true family and save them from a most terrifying foe: himself..",
+     "duration": "54 min",
+     "episodes": 19,
+     "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "id": "cinema-series-tt19231492",
+     "imdb": "tt19231492",
+     "logo": "https://image.tmdb.org/t/p/original/41oTdX0XzO8VskZTfiNIKijfRuq.png",
+     "mediaType": "series",
+     "minutes": 54,
+     "poster": "https://image.tmdb.org/t/p/w780/nKbcRnd3STGmoKYZus16l36YqWR.jpg",
+     "posterClean": true,
+     "rating": "7.6",
+     "slug": "dark-matter-2024",
+     "source": "cinema",
+     "textless": true,
+     "title": "Dark Matter",
+     "type": "show",
+     "year": "2024–"
+    },
+    {
+     "cast": [
+      "Ryan Gosling",
+      "Sandra Hüller",
+      "James Ortiz"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+     "description": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+     "duration": "157 min",
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+     ],
+     "id": "cinema-movie-tt12042730",
+     "imdb": "tt12042730",
+     "logo": "https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+     "mediaType": "movie",
+     "minutes": 157,
+     "poster": "https://image.tmdb.org/t/p/w780/7mL0PR2jGC283JbPApFS8aJ2x1F.jpg",
+     "posterClean": true,
+     "rating": "8.2",
+     "slug": "project-hail-mary-2026",
+     "source": "cinema",
+     "textless": true,
+     "title": "Project Hail Mary",
+     "type": "movie",
+     "year": "2026"
+    },
+    {
+     "cast": [
+      "Adam Scott",
+      "Britt Lower",
+      "Zach Cherry"
+     ],
+     "cover": "https://image.tmdb.org/t/p/w1280/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+     "coverBig": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+     "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+     "duration": "49 min",
+     "episodes": 19,
+     "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+     ],
+     "id": "cinema-series-tt11280740",
+     "imdb": "tt11280740",
+     "logo": "https://image.tmdb.org/t/p/original/yyS1tALk7t3YdTNMOvR5gsnXINA.png",
+     "mediaType": "series",
+     "minutes": 49,
+     "poster": "https://image.tmdb.org/t/p/w780/hntBJjqbv4m0Iyniqaztv9xaudI.jpg",
+     "posterClean": true,
+     "rating": "8.6",
+     "slug": "severance-2022",
+     "source": "cinema",
+     "textless": true,
+     "title": "Severance",
+     "type": "show",
+     "year": "2022–"
+    }
+   ],
+   "noTags": true,
+   "title": "Sci-Fi"
+  }
+ ],
+ "youtube": [
+  {
+   "channel": "HUM TV",
+   "cover": "https://i.ytimg.com/vi/1u2IAMtpfFk/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/1u2IAMtpfFk/maxresdefault.jpg",
+   "episodes": 24,
+   "fallback": "https://i.ytimg.com/vi/1u2IAMtpfFk/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-3cee8e85a42c",
+   "latest": 25,
+   "newAt": 1794675969,
+   "newKind": "episode",
+   "poster": "https://i.ytimg.com/vi/1u2IAMtpfFk/maxresdefault.jpg",
+   "slug": "zehar-e-mohabbat",
+   "source": "youtube",
+   "title": "Zehar-e-Mohabbat",
+   "type": "show"
+  },
+  {
+   "channel": "Har Pal Geo",
+   "cover": "https://image.tmdb.org/t/p/w1280/ctsvnPykIzoMYnrm1egUXuhtPpe.jpg",
+   "coverBig": "https://i.ytimg.com/vi/iom21w9SQr8/maxresdefault.jpg",
+   "episodes": 27,
+   "fallback": "https://i.ytimg.com/vi/iom21w9SQr8/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-1abcd953ecac",
+   "latest": 31,
+   "newAt": 1794675969,
+   "newKind": "episode",
+   "poster": "https://image.tmdb.org/t/p/w780/ptDBZ32OYqsrlGxh8VfQAg6OBR6.jpg",
+   "slug": "bano",
+   "source": "youtube",
+   "textless": true,
+   "title": "Bano",
+   "type": "show"
+  },
+  {
+   "channel": "HUM TV",
+   "cover": "https://i.ytimg.com/vi/B2rcGDRGwz4/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/B2rcGDRGwz4/maxresdefault.jpg",
+   "episodes": 14,
+   "fallback": "https://i.ytimg.com/vi/B2rcGDRGwz4/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-7420fc6c5a9d",
+   "latest": 14,
+   "newAt": 1794672182,
+   "newKind": "episode",
+   "poster": "https://i.ytimg.com/vi/B2rcGDRGwz4/maxresdefault.jpg",
+   "slug": "aangan",
+   "source": "youtube",
+   "title": "Aangan",
+   "type": "show"
+  },
+  {
+   "channel": "Har Pal Geo",
+   "cover": "https://i.ytimg.com/vi/HfokLFZYbGo/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/HfokLFZYbGo/maxresdefault.jpg",
+   "episodes": 21,
+   "fallback": "https://i.ytimg.com/vi/HfokLFZYbGo/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-18c8d23d51b4",
+   "latest": 31,
+   "newAt": 1794672182,
+   "newKind": "episode",
+   "poster": "https://i.ytimg.com/vi/HfokLFZYbGo/maxresdefault.jpg",
+   "slug": "nashtar",
+   "source": "youtube",
+   "title": "Nashtar",
+   "type": "show"
+  },
+  {
+   "channel": "Express TV",
+   "cover": "https://i.ytimg.com/vi/7KztimEYgd0/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/7KztimEYgd0/maxresdefault.jpg",
+   "episodes": 3,
+   "fallback": "https://i.ytimg.com/vi/7KztimEYgd0/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-1b699ad0a1f7",
+   "latest": 3,
+   "newAt": 1794672182,
+   "newKind": "episode",
+   "poster": "https://i.ytimg.com/vi/7KztimEYgd0/maxresdefault.jpg",
+   "slug": "qaul-qarar",
+   "source": "youtube",
+   "title": "Qaul Qarar",
+   "type": "show"
+  },
+  {
+   "channel": "HUM TV",
+   "cover": "https://image.tmdb.org/t/p/w1280/xXViRGhvsD7mMMZ7jXEI3tWGeBf.jpg",
+   "coverBig": "https://i.ytimg.com/vi/Oyt7TXJEMI4/maxresdefault.jpg",
+   "episodes": 40,
+   "fallback": "https://i.ytimg.com/vi/Oyt7TXJEMI4/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-69323565b4d0",
+   "latest": 63,
+   "newAt": 1794668561,
+   "newKind": "episode",
+   "poster": "https://image.tmdb.org/t/p/w780/sZDUVsECLWcrQuQ3vmWu3fFohKU.jpg",
+   "slug": "khushi",
+   "source": "youtube",
+   "textless": true,
+   "title": "Khushi",
+   "type": "show"
+  },
+  {
+   "channel": "Har Pal Geo",
+   "cover": "https://image.tmdb.org/t/p/w1280/oHJNHsaeTqU3tcQyrvDIrW0Dob8.jpg",
+   "coverBig": "https://i.ytimg.com/vi/plFvcyS24Sc/maxresdefault.jpg",
+   "episodes": 40,
+   "fallback": "https://i.ytimg.com/vi/plFvcyS24Sc/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-4f1c38277554",
+   "latest": 52,
+   "newAt": 1794668561,
+   "newKind": "episode",
+   "poster": "https://image.tmdb.org/t/p/w780/uXbq7ocjd60PLMRVOSW9yYJXhNX.jpg",
+   "slug": "uswah",
+   "source": "youtube",
+   "textless": true,
+   "title": "Uswah",
+   "type": "show"
+  },
+  {
+   "channel": "Green TV",
+   "cover": "https://image.tmdb.org/t/p/w1280/1EO8EsKdmQzih4YQyZBqGbbxl3B.jpg",
+   "coverBig": "https://i.ytimg.com/vi/Ieyj4l3Q7e0/maxresdefault.jpg",
+   "episodes": 52,
+   "fallback": "https://i.ytimg.com/vi/Ieyj4l3Q7e0/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-70cfa844bbf1",
+   "latest": 85,
+   "newAt": 1794667956,
+   "newKind": "episode",
+   "poster": "https://image.tmdb.org/t/p/w780/wJ2TepR9FrqFJnsuVuFsDCPsr7x.jpg",
+   "slug": "dastoor",
+   "source": "youtube",
+   "textless": true,
+   "title": "Dastoor",
+   "type": "show"
+  },
+  {
+   "channel": "HUM TV",
+   "cover": "https://i.ytimg.com/vi/bdACAx_iWnQ/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/bdACAx_iWnQ/maxresdefault.jpg",
+   "episodes": 19,
+   "fallback": "https://i.ytimg.com/vi/bdACAx_iWnQ/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-651580eccd9c",
+   "latest": 24,
+   "newAt": 1794589404,
+   "newKind": "episode",
+   "poster": "https://i.ytimg.com/vi/bdACAx_iWnQ/maxresdefault.jpg",
+   "slug": "tark-e-tamanna",
+   "source": "youtube",
+   "title": "Tark-e-Tamanna",
+   "type": "show"
+  },
+  {
+   "channel": "Green TV",
+   "cover": "https://i.ytimg.com/vi/8-MHOlIYlG8/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/8-MHOlIYlG8/maxresdefault.jpg",
+   "episodes": 38,
+   "fallback": "https://i.ytimg.com/vi/8-MHOlIYlG8/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-895f28b9b7ec",
+   "latest": 38,
+   "newAt": 1794588428,
+   "newKind": "episode",
+   "poster": "https://i.ytimg.com/vi/8-MHOlIYlG8/maxresdefault.jpg",
+   "slug": "madaar",
+   "source": "youtube",
+   "title": "Madaar",
+   "type": "show"
+  },
+  {
+   "channel": "Express TV",
+   "cover": "https://i.ytimg.com/vi/8yCvPK_HJB8/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/8yCvPK_HJB8/maxresdefault.jpg",
+   "episodes": 22,
+   "fallback": "https://i.ytimg.com/vi/8yCvPK_HJB8/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-02f7dbdf7ed4",
+   "latest": 26,
+   "newAt": 1794586004,
+   "newKind": "episode",
+   "poster": "https://i.ytimg.com/vi/8yCvPK_HJB8/maxresdefault.jpg",
+   "slug": "hum-bhi-ji-lain",
+   "source": "youtube",
+   "title": "Hum Bhi Ji Lain",
+   "type": "show"
+  },
+  {
+   "channel": "Green TV",
+   "cover": "https://i.ytimg.com/vi/v2ubveST90U/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/v2ubveST90U/maxresdefault.jpg",
+   "episodes": 16,
+   "fallback": "https://i.ytimg.com/vi/v2ubveST90U/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-52529c538ac3",
+   "latest": 17,
+   "poster": "https://i.ytimg.com/vi/v2ubveST90U/maxresdefault.jpg",
+   "slug": "nizaam",
+   "source": "youtube",
+   "title": "Nizaam",
+   "type": "show"
+  },
+  {
+   "channel": "Green TV",
+   "cover": "https://i.ytimg.com/vi/fpzkfAYw6Hs/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/fpzkfAYw6Hs/maxresdefault.jpg",
+   "episodes": 7,
+   "fallback": "https://i.ytimg.com/vi/fpzkfAYw6Hs/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-5b38bafc955e",
+   "latest": 7,
+   "poster": "https://i.ytimg.com/vi/fpzkfAYw6Hs/maxresdefault.jpg",
+   "slug": "circle",
+   "source": "youtube",
+   "title": "Circle",
+   "type": "show"
+  },
+  {
+   "channel": "Express TV",
+   "cover": "https://i.ytimg.com/vi/SdU4DK0tB-Q/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/SdU4DK0tB-Q/maxresdefault.jpg",
+   "episodes": 22,
+   "fallback": "https://i.ytimg.com/vi/SdU4DK0tB-Q/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-adaa1b6f1993",
+   "latest": 24,
+   "poster": "https://i.ytimg.com/vi/SdU4DK0tB-Q/maxresdefault.jpg",
+   "slug": "ranjish",
+   "source": "youtube",
+   "title": "Ranjish",
+   "type": "show"
+  },
+  {
+   "channel": "Har Pal Geo",
+   "cover": "https://i.ytimg.com/vi/_KgZMycZs1s/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/_KgZMycZs1s/maxresdefault.jpg",
+   "episodes": 19,
+   "fallback": "https://i.ytimg.com/vi/_KgZMycZs1s/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-def3bae7fdb5",
+   "latest": 30,
+   "poster": "https://i.ytimg.com/vi/_KgZMycZs1s/maxresdefault.jpg",
+   "slug": "khafa",
+   "source": "youtube",
+   "title": "Khafa",
+   "type": "show"
+  },
+  {
+   "channel": "HUM TV",
+   "cover": "https://i.ytimg.com/vi/V_qBm4xCjJc/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/V_qBm4xCjJc/maxresdefault.jpg",
+   "episodes": 18,
+   "fallback": "https://i.ytimg.com/vi/V_qBm4xCjJc/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-3157de7e2165",
+   "latest": 18,
+   "poster": "https://i.ytimg.com/vi/V_qBm4xCjJc/maxresdefault.jpg",
+   "slug": "gulbahar",
+   "source": "youtube",
+   "title": "Gulbahar",
+   "type": "show"
+  },
+  {
+   "channel": "Green TV",
+   "cover": "https://i.ytimg.com/vi/aW8j09SyRVk/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/aW8j09SyRVk/maxresdefault.jpg",
+   "episodes": 16,
+   "fallback": "https://i.ytimg.com/vi/aW8j09SyRVk/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-19dfb78fdc69",
+   "latest": 16,
+   "poster": "https://i.ytimg.com/vi/aW8j09SyRVk/maxresdefault.jpg",
+   "slug": "mitti-de-baway",
+   "source": "youtube",
+   "title": "Mitti De Baway",
+   "type": "show"
+  },
+  {
+   "channel": "Har Pal Geo",
+   "cover": "https://i.ytimg.com/vi/apwIrBLbrys/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/apwIrBLbrys/maxresdefault.jpg",
+   "episodes": 100,
+   "fallback": "https://i.ytimg.com/vi/apwIrBLbrys/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-26d0c5a0b2a4",
+   "latest": 221,
+   "poster": "https://i.ytimg.com/vi/apwIrBLbrys/maxresdefault.jpg",
+   "slug": "hasna-mana-hai",
+   "source": "youtube",
+   "title": "Hasna Mana Hai",
+   "type": "show"
+  },
+  {
+   "channel": "Har Pal Geo",
+   "cover": "https://i.ytimg.com/vi/OM9zgC2_J8I/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/OM9zgC2_J8I/maxresdefault.jpg",
+   "episodes": 13,
+   "fallback": "https://i.ytimg.com/vi/OM9zgC2_J8I/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-02558c9b0826",
+   "latest": 13,
+   "poster": "https://i.ytimg.com/vi/OM9zgC2_J8I/maxresdefault.jpg",
+   "slug": "mohabbat",
+   "source": "youtube",
+   "title": "Mohabbat",
+   "type": "show"
+  },
+  {
+   "channel": "HUM TV",
+   "cover": "https://i.ytimg.com/vi/MeirQRJls1A/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/MeirQRJls1A/maxresdefault.jpg",
+   "episodes": 12,
+   "fallback": "https://i.ytimg.com/vi/MeirQRJls1A/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-e7c85664c534",
+   "latest": 12,
+   "poster": "https://i.ytimg.com/vi/MeirQRJls1A/maxresdefault.jpg",
+   "slug": "hurmat",
+   "source": "youtube",
+   "title": "Hurmat",
+   "type": "show"
+  },
+  {
+   "channel": "Green TV",
+   "cover": "https://i.ytimg.com/vi/d_smuIPXKX0/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/d_smuIPXKX0/maxresdefault.jpg",
+   "episodes": 20,
+   "fallback": "https://i.ytimg.com/vi/d_smuIPXKX0/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-032d3f1ef0d3",
+   "latest": 20,
+   "poster": "https://i.ytimg.com/vi/d_smuIPXKX0/maxresdefault.jpg",
+   "slug": "raqaas",
+   "source": "youtube",
+   "title": "Raqaas",
+   "type": "show"
+  },
+  {
+   "channel": "HUM TV",
+   "cover": "https://i.ytimg.com/vi/piqx9NyYoVE/maxresdefault.jpg",
+   "coverBig": "https://i.ytimg.com/vi/piqx9NyYoVE/maxresdefault.jpg",
+   "episodes": 28,
+   "fallback": "https://i.ytimg.com/vi/piqx9NyYoVE/mqdefault.jpg",
+   "genres": [
+    "Drama"
+   ],
+   "id": "yt-77ab798556b4",
+   "latest": 33,
+   "poster": "https://i.ytimg.com/vi/piqx9NyYoVE/maxresdefault.jpg",
+   "slug": "bombay-tailors",
+   "source": "youtube",
+   "title": "Bombay Tailors",
+   "type": "show"
+  }
+ ]
+}

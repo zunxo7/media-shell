@@ -1,0 +1,96 @@
+[package]
+name = "zunflix"
+version = "1.0.0"
+edition = "2021"
+description = "zunflix for Windows"
+
+[workspace]
+
+[dependencies]
+# The shared core: the rules every app follows (../../core).
+zcore = { path = "../../core/zcore" }
+taffy = "0.9"
+serde_json = "1"
+tokio = { version = "1", features = ["rt-multi-thread", "time", "sync", "fs", "io-util"] }
+reqwest = { version = "0.13", default-features = false, features = ["native-tls", "http2", "stream"] }
+futures-util = "0.3"
+jpeg-encoder = "0.6"
+image-webp = "0.2"
+sha2 = "0.10"
+gif = "0.14"
+
+# The Windows backend (src/platform/windows).
+[target.'cfg(windows)'.dependencies]
+windows-core = "0.62"
+windows-numerics = "0.3"
+xz2 = { version = "0.1", features = ["static"] }
+# The macOS backend (src/platform/mac): Apple's frameworks through objc2.
+[target.'cfg(target_os = "macos")'.dependencies]
+objc2 = "0.6"
+objc2-foundation = "0.3"
+objc2-app-kit = "0.3"
+objc2-quartz-core = { version = "0.3", features = ["CAOpenGLLayer", "objc2-open-gl", "objc2-core-video"] }
+objc2-core-foundation = "0.3"
+objc2-core-graphics = "0.3"
+objc2-core-text = "0.3"
+objc2-core-image = "0.3"
+objc2-image-io = "0.3"
+# The player (src/platform/mac/video.rs): mpv's OpenGL render API into a CAOpenGLLayer.
+objc2-core-video = { version = "0.3", default-features = false, features = ["std", "CVBase"] }
+objc2-open-gl = { version = "0.3", default-features = false, features = ["std", "CGLTypes", "CGLCurrent"] }
+
+[target.'cfg(windows)'.dependencies.windows]
+version = "0.62"
+features = [
+  "Foundation", "Graphics_DirectX_Direct3D11", "Graphics_Effects",
+  "System", "UI", "UI_Composition", "UI_Composition_Desktop",
+  "Win32_Foundation", "Win32_Graphics_Direct2D", "Win32_Graphics_Direct2D_Common", "Win32_Graphics_Direct3D", "Win32_Graphics_Direct3D11",
+  "Win32_Graphics_DirectWrite", "Win32_Media_MediaFoundation", "Win32_Graphics_Dwm", "Win32_Graphics_Dxgi", "Win32_Graphics_Dxgi_Common", "Win32_Graphics_Gdi", "Win32_Graphics_Imaging",
+  "Win32_Security", "Win32_Storage_FileSystem", "Win32_UI_Controls", "Win32_UI_Controls_Dialogs", "Win32_System_Registry", "Win32_UI_Shell_Common", "Win32_System_Com", "Win32_System_Com_StructuredStorage", "Win32_System_DataExchange", "Win32_System_LibraryLoader", "Win32_System_Memory", "Win32_System_Power", "Win32_System_Ole", "Win32_System_Threading", "Win32_System_Time", "Win32_System_WinRT", "Win32_System_WinRT_Composition",
+  "Win32_System_WinRT_Direct3D11", "Win32_System_WinRT_Graphics_Direct2D",
+  "Win32_UI_HiDpi", "Win32_UI_Input_Ime", "Win32_UI_Input_KeyboardAndMouse", "Win32_UI_Shell", "Win32_UI_WindowsAndMessaging",
+]
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+strip = true
+
+# The network stack waits on the network, not the CPU: built for size (about 270 KB off zunflix.exe, which the setup
+# carries twice). The UI, layout (taffy) and picture decoding stay at opt-level 3.
+[profile.release.package.tokio]
+opt-level = "s"
+[profile.release.package.mio]
+opt-level = "s"
+[profile.release.package.h2]
+opt-level = "s"
+[profile.release.package.hyper]
+opt-level = "s"
+[profile.release.package.hyper-util]
+opt-level = "s"
+[profile.release.package.hyper-tls]
+opt-level = "s"
+[profile.release.package.http]
+opt-level = "s"
+[profile.release.package.http-body-util]
+opt-level = "s"
+[profile.release.package.reqwest]
+opt-level = "s"
+[profile.release.package.native-tls]
+opt-level = "s"
+[profile.release.package.schannel]
+opt-level = "s"
+[profile.release.package.futures-util]
+opt-level = "s"
+[profile.release.package.url]
+opt-level = "s"
+[profile.release.package.idna]
+opt-level = "s"
+[profile.release.package.serde_json]
+opt-level = "s"
+
+
+[build-dependencies]
+embed-resource = "3"

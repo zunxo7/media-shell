@@ -1,0 +1,119 @@
+{
+ "cast": [
+  "Dananeer Mobeen",
+  "Shahveer Jafry"
+ ],
+ "channel": "HUM TV",
+ "cover": "https://image.tmdb.org/t/p/w1280/pz3tBwbhBK1gIqf8niTAicZdyT9.jpg",
+ "coverBig": "https://i.ytimg.com/vi/MeirQRJls1A/maxresdefault.jpg",
+ "description": "Digitally associated by Vince\n\nHurmat is a tale of love, pride, and tested ties. Caught between the heavy demands of honor and the unspoken yearnings of the heart, fragile relationships unravel under the weight of secrets and misunderstandings. As sacrifices collide with harsh realities, will destiny heal what time tore apart, or leave an indelible scar on every heart?\nWritten by Kashif Anwar\nDirected by Nadeem Siddique",
+ "episodes": [
+  {
+   "id": "yt-YXWuZKn452A",
+   "length": 2141,
+   "n": 1,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/YXWuZKn452A/mqdefault.jpg",
+   "title": "Episode 1"
+  },
+  {
+   "id": "yt-Rb55pU43mw0",
+   "length": 2059,
+   "n": 2,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/Rb55pU43mw0/mqdefault.jpg",
+   "title": "Episode 2"
+  },
+  {
+   "id": "yt-uY8hogzkLB8",
+   "length": 2069,
+   "n": 3,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/uY8hogzkLB8/mqdefault.jpg",
+   "title": "Episode 3"
+  },
+  {
+   "id": "yt-IBQ3xgoCUqs",
+   "length": 2072,
+   "n": 4,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/IBQ3xgoCUqs/mqdefault.jpg",
+   "title": "Episode 4"
+  },
+  {
+   "id": "yt-U0W2RJOkvkw",
+   "length": 2097,
+   "n": 5,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/U0W2RJOkvkw/mqdefault.jpg",
+   "title": "Episode 5"
+  },
+  {
+   "id": "yt-DTyP7i3CYq4",
+   "length": 2058,
+   "n": 6,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/DTyP7i3CYq4/mqdefault.jpg",
+   "title": "Episode 6"
+  },
+  {
+   "id": "yt-w6hU2MPkgik",
+   "length": 2065,
+   "n": 7,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/w6hU2MPkgik/mqdefault.jpg",
+   "title": "Episode 7"
+  },
+  {
+   "id": "yt-O5zs__9FJsM",
+   "length": 2126,
+   "n": 8,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/O5zs__9FJsM/mqdefault.jpg",
+   "title": "Episode 8"
+  },
+  {
+   "id": "yt-yK4veNLCIIc",
+   "length": 2077,
+   "n": 9,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/yK4veNLCIIc/mqdefault.jpg",
+   "title": "Episode 9"
+  },
+  {
+   "id": "yt-4qhw1PAIjxs",
+   "length": 2066,
+   "n": 10,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/4qhw1PAIjxs/mqdefault.jpg",
+   "title": "Episode 10"
+  },
+  {
+   "id": "yt-F5OuvSrlJF0",
+   "length": 2103,
+   "n": 11,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/F5OuvSrlJF0/mqdefault.jpg",
+   "title": "Episode 11"
+  },
+  {
+   "id": "yt-MeirQRJls1A",
+   "length": 2000,
+   "n": 12,
+   "stream": null,
+   "thumb": "https://i.ytimg.com/vi/MeirQRJls1A/mqdefault.jpg",
+   "title": "Episode 12"
+  }
+ ],
+ "fallback": "https://i.ytimg.com/vi/MeirQRJls1A/mqdefault.jpg",
+ "genres": [
+  "Drama"
+ ],
+ "id": "yt-e7c85664c534",
+ "poster": "https://image.tmdb.org/t/p/w780/mxRs8kaLfNQClZpnyuH67jjwF6v.jpg",
+ "slug": "hurmat",
+ "source": "youtube",
+ "textless": true,
+ "title": "Hurmat",
+ "type": "show"
+}
